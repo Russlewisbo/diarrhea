@@ -10,7 +10,6 @@ format:
     slide-number: true
     chalkboard: true
     preview-links: auto
-    logo: images/.jpg
     transition: slide
     width: 1200
     height: 700
@@ -56,13 +55,12 @@ typhoid fever and hemolytic uremic syndrome.
 The global burden of diarrheal disease is immense. While mortality in
 developed countries is low due to access to rehydration therapy and
 antibiotics, infectious diarrhea remains a major health problem
-globally. In the United States, we often see diarrhea as a self-limited
-problem, but we must recognize when it requires intervention. The
-challenge is identifying which patients need hospitalization, laboratory
-testing, or antimicrobial therapy versus supportive care alone.
+globally. The challenge is identifying which patients need
+hospitalization, laboratory testing, or antimicrobial therapy versus
+supportive care alone.
 :::
 
-## Definitions and Duration
+## Definitions and Duration {.smaller}
 
 <br>
 
@@ -103,6 +101,8 @@ category and is self-limited.
 
 ## Pathophysiology of Diarrhea {.smaller}
 
+<br> <br>
+
 ::::: columns
 ::: {.column width="50%"}
 **Normal Intestinal Physiology**
@@ -125,8 +125,6 @@ category and is self-limited.
 :::
 :::::
 
-
-
 ::: aside
 Understanding pathophysiology helps predict clinical presentation.
 Pathogens that cause secretory toxins lead to watery diarrhea because
@@ -138,40 +136,50 @@ means that rehydration works because the remaining absorptive capacity
 is usually intact in uncomplicated infections.**
 :::
 
-## Small Bowel vs. Large Bowel Diarrhea
+## Small bowel vs. large bowel diarrhea {.smaller}
 
 ::::: columns
 ::: {.column width="50%"}
-**Small Bowel Pattern** - Large volume stools (\>200 mL/stool) - Watery
-consistency - Cramping periumbilical pain - 4-8 stools daily
+**Small Bowel Pattern**
 
-**Associated Symptoms** - Nausea/vomiting common - Weight loss possible
+-   Large volume stools (\>200 mL/stool)
+
+-   Watery consistency
+
+-   Cramping periumbilical pain - 4-8 stools daily
+
+**Associated Symptoms**: Nausea/vomiting common, weight loss possible
 :::
 
 ::: {.column width="50%"}
-**Large Bowel Pattern** - Small volume stools (\<200 mL/stool) -
-Frequent passage (\>5-6/day) - Painful tenesmus and urgency - Bloody or
-mucoid stools
+**Large Bowel Pattern**
 
-**Associated Symptoms** - Abdominal cramping/pain - Systemic symptoms
-less common
+-   Small volume stools (\<200 mL/stool)
+
+-   Frequent passage (\>5-6/day)
+
+-   Painful tenesmus and urgency
+
+-   Bloody or mucoid stools
+
+**Associated Symptoms** - Abdominal cramping/pain -sstemic symptoms less
+common
 :::
 :::::
 
-::: notes
+::: aside
 The pattern of diarrhea itself tells you about the location of infection
 and helps narrow the differential. Small bowel pathogens like norovirus
 or cholera produce large-volume watery stools because they affect water
 and electrolyte balance across a larger absorptive surface. Large bowel
 pathogens like Shigella cause frequent, small-volume, painful stools
 because they invade the mucosa and cause inflammation. Patients can have
-both patterns simultaneously. Understanding this distinction helps
-interpret your clinical examination and guides which tests to order.
+both patterns simultaneously.
 :::
 
 ## Overview of Infectious Etiologies
 
-![](images/slides-009.jpg){width="350"}
+![](images/slides-009.jpg){fig-align="center" width="600"}
 
 ::: incremental
 -   **Most diarrhea is viral**: stool cultures positive only 1.5-5.6%
@@ -197,10 +205,14 @@ different risks than community-acquired diarrhea at home.
 
 ::::: columns
 ::: {.column width="50%"}
-**Key Features** - Most common cause of acute gastroenteritis worldwide
-[@Ahmed2014] - Affects all ages, including highly immune populations -
-Mean incubation: 24-48 hours - "Winter vomiting disease" (northern
-hemisphere)
+**Key Features**
+
+-   Most common cause of acute gastroenteritis worldwide [@Ahmed2014]
+
+-   Affects all ages, including highly immune populations
+
+-   Mean incubation: 24-48 hours - "Winter vomiting disease" (northern
+    hemisphere)
 :::
 
 ::: {.column width="50%"}
@@ -437,7 +449,7 @@ in a developed country, consider vaccination status or immunocompromise.
 ## Other Viral Pathogens
 
 | Virus | Age Group | Key Features |
-|------------------|------------------------|-------------------------------|
+|------------------|------------------------|------------------------------|
 | Sapovirus | Children | Similar to norovirus; outbreaks |
 | Astrovirus | Young children | Milder than rotavirus |
 | Adenovirus 40/41 | Infants/toddlers | Winter seasonality |
