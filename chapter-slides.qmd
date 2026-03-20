@@ -1662,7 +1662,7 @@ Bismuth subsalicylate has both antimicrobial and symptomatic benefits, making it
 
     -   Suspected invasive pathogen (Salmonella bacteremia, Shigella in systemically ill)
 
-    -    Institutional outbreaks (control transmission)
+    -   Institutional outbreaks (control transmission)
 
 -   **Avoid Antibiotics:** Suspected or confirmed EHEC/STEC (increases HUS risk)
 

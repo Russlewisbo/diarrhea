@@ -1,6 +1,5 @@
 ---
 title: "Syndromes of Enteric Infection: Infectious Diarrhea"
-subtitle: "Chapter 100 — Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases"
 author: "Russell E. Lewis"
 date: last-modified
 format:
@@ -11,6 +10,7 @@ format:
     theme: cosmo
     code-fold: true
     smooth-scroll: true
+    lightbox: true
 bibliography: references.bib
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
