@@ -1614,7 +1614,7 @@ Self-treatment of traveler's diarrhea with antibiotics can dramatically reduce d
 Rehydration is the cornerstone of diarrheal disease treatment, and the introduction of ORS has been transformative in reducing mortality from diarrhea globally. The electrolyte composition of ORS is based on the sodium-glucose cotransport mechanism in the small intestine, which remains intact even in diarrheal disease. Most cases of acute diarrhea, even with significant initial dehydration, can be managed with ORS. Early feeding reduces diarrhea duration and prevents malnutrition. The need for IV rehydration is reserved for cases with signs of shock, persistent vomiting, or severe dehydration unable to drink.
 :::
 
-## Symptomatic Treatment  {.smaller}
+## Symptomatic treatment  {.smaller}
 
 <br>
 
@@ -1650,7 +1650,7 @@ Rehydration is the cornerstone of diarrheal disease treatment, and the introduct
 Bismuth subsalicylate has both antimicrobial and symptomatic benefits, making it useful in traveler's diarrhea. Antimotility agents require clinical judgment; they're safe in uncomplicated watery diarrhea but contraindicated when there's concern for invasive infection, fever, or bloody stools because they increase risk of complications like toxic megacolon. The combined use of antimotility agents with antibiotics in traveler's diarrhea deserves special mention—this combination is very effective because the antibiotic kills the pathogen and the antimotility agent reduces symptoms. Probiotics remain controversial; some patients request them, but evidence for benefit in acute diarrhea is limited.
 :::
 
-## When to Use Antibiotics
+## When to use antibiotics
 
 -   **Empiric Antibiotics Recommended For:**
 
