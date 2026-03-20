@@ -1218,7 +1218,7 @@ The combination of pharyngitis with gastroenteritis is unusual and should raise 
 
 <br> <br>
 
-![](images/john snow.png){fig-align="center"}
+![](images/john%20snow.png){fig-align="center"}
 
 ## Vibrio cholerae
 
@@ -1255,7 +1255,9 @@ Cholera is primarily a disease encountered in endemic areas or during humanitari
 
 <br>
 
-**Diagnostic Approach** -
+::::: columns
+::: {.column width="50%"}
+**Diagnostic approach**
 
 -   Culture on TCBS (Thiosulfate-Citrate-Bile Salts) agar
 
@@ -1265,17 +1267,17 @@ Cholera is primarily a disease encountered in endemic areas or during humanitari
 
 **Treatment**
 
--   **Fluid Replacement is Paramount**
+**Fluid replacement is paramount!!!**
 
-    -   Oral rehydration solution (ORS) is first-line
+-   Oral rehydration solution (ORS) is first-line
 
-    -   IV fluids (normal saline or Ringer's lactate) for severe dehydration
+-   IV fluids (normal saline or Ringer's lactate) for severe dehydration
 
-    -    Replacement volumes can be massive (10-20 L/day in severe cases)
+-   Replacement volumes can be massive (10-20 L/day in severe cases)
 
-    -   Monitor for electrolyte abnormalities
+-   Monitor for electrolyte abnormalities
 
-**Antimicrobial Therapy**
+**Antimicrobial therapy**
 
 -   Decreases duration and volume of diarrhea
 
@@ -1286,24 +1288,66 @@ Cholera is primarily a disease encountered in endemic areas or during humanitari
 **Prevention** - Vaxchora: oral cholera vaccine for travelers to endemic areas
 
 -   Provides \~90% protection for 3 months, wanes thereafter - Food and water precautions essential
+:::
+
+::: {.column width="50%"}
+![](images/ORS.png){fig-align="center" width="600"}
+:::
+:::::
 
 ::: notes
 Cholera treatment emphasizes the critical importance of aggressive fluid replacement. With appropriate rehydration, mortality is \<1%; without it, mortality exceeds 50%. The vaccine (Vaxchora) is a live attenuated vaccine given orally; it's not routinely recommended for all travelers but is appropriate for those spending extended time in endemic areas at high risk of exposure.
 :::
 
-## Traveler's Diarrhea — Overview
+# Traveler's Diarrhea {background-color="#9B0014"}
 
-**Epidemiology** - Affects 300-500 million travelers annually - Attack rate varies by destination: 5-50% depending on region [@Steffen2015] - Onset typically 5-15 days after arrival in endemic region - Duration usually 1-5 days (self-limiting in 90%)
+## Traveler's diarrhea — Overview {.smaller}
 
-**Clinical Presentation** - Watery diarrhea most common (80%) - Some bloody stools possible (10-20%) - Fever in 20-30% - Cramping abdominal pain - Systemic symptoms mild
+<br>
 
-**Definition** - ≥3 unformed stools in 24 hours plus 1+ GI symptom - Occurring in someone traveling to area of higher risk
+::::: columns
+::: {.column width="75%"}
+**Epidemiology**
 
-::: notes
-Traveler's diarrhea is so common that prevention and self-management strategies are critical counseling points for patients planning travel. Most cases are mild and self-limited, but some can be severe enough to disrupt travel plans. The pathogenesis is multifactorial: combination of unfamiliar microbiota, altered diet, dehydration, and exposure to enteropathogens. The risk varies dramatically by destination; highest risk areas include Latin America, Africa, Middle East, and South Asia. Lower-risk destinations include Northern Europe, Australia, New Zealand, and North America.
+-   Affects 300-500 million travelers annually
+
+-   Attack rate varies by destination: 5-50% depending on region [@Steffen2015]
+
+-   Onset typically 5-15 days after arrival in endemic region
+
+-   Duration usually 1-5 days (self-limiting in 90%)
+
+**Clinical Presentation**
+
+-   Watery diarrhea most common (80%)
+
+-   Some bloody stools possible (10-20%)
+
+-   Fever in 20-30%
+
+-   Cramping abdominal pain
+
+-   Systemic symptoms mild
+
+**Definition**
+
+-   ≥3 unformed stools in 24 hours plus 1+ GI symptom
+
+-   Occurring in someone traveling to area of higher risk
 :::
 
-## Traveler's Diarrhea — Etiology by region
+::: {.column width="25%"}
+![](images/suitcase.png){fig-align="center" width="900"}
+:::
+:::::
+
+::: aside
+The pathogenesis is multifactorial: combination of unfamiliar microbiota, altered diet, dehydration, and exposure to enteropathogens. The risk varies dramatically by destination; highest risk areas include Latin America, Africa, Middle East, and South Asia. Lower-risk destinations include Northern Europe, Australia, New Zealand, and North America.
+:::
+
+## Traveler's diarrhea — Etiology by region
+
+<br>
 
 | Pathogen                   | Frequency | Geographic Notes                 |
 |----------------------------|-----------|----------------------------------|
@@ -1316,148 +1360,356 @@ Traveler's diarrhea is so common that prevention and self-management strategies 
 | Viral                      | 5-10%     | Norovirus, Rotavirus, Adenovirus |
 | Noninfectious              | 10-20%    | Dietary changes, altitude        |
 
-::: notes
-The etiology of traveler's diarrhea varies by geographic destination and season. ETEC remains the most common identified cause overall. In Asia, Campylobacter is proportionally more common. Understanding regional epidemiology helps guide empiric therapy if the patient becomes ill while abroad. For most travelers, the illness is self-limited and doesn't require laboratory diagnosis or specific therapy. The proportion of noninfectious causes (stress, diet changes, altitude) is often underappreciated—not all traveler's diarrhea is infection.
+## Traveler's diarrhea — Prevention {.smaller}
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+**Food and water precautions**
+
+-   Drink bottled or boiled water
+
+-   Avoid ice, raw vegetables, raw/undercooked meat
+
+-   Peel own fruits
+
+-   Avoid street food and unpasteurized dairy
+
+**Antimicrobial prophylaxis**
+
+-   Not routinely recommended (resistance, adverse effects)
+
+-   Consider for high-risk patients (immunocompromised, severe underlying disease)
+
+-   Bismuth subsalicylate: effective prophylaxis (2 tablets QID)
+
+-   Duration: maximum 3 weeks
 :::
 
-## Traveler's Diarrhea — Prevention
+::: {.column width="50%"}
+![](images/street_food.png)
+:::
+:::::
 
-**Food and Water Precautions** - Drink bottled or boiled water - Avoid ice, raw vegetables, raw/undercooked meat - Peel own fruits - Avoid street food and unpasteurized dairy
-
-**Antimicrobial Prophylaxis** - Not routinely recommended (resistance, adverse effects) - Consider for high-risk patients (immunocompromised, severe underlying disease) - Bismuth subsalicylate: effective prophylaxis (2 tablets QID) - Duration: maximum 3 weeks
-
-::: notes
+::: aside
 Food and water safety counseling is the most important prevention strategy. Travelers should be cautious about water quality even in urban areas; boiling, bottled water, or water purification tablets provide protection. The decision to use antimicrobial prophylaxis should be individualized. For most healthy travelers, the small risk of side effects outweighs benefits. Bismuth subsalicylate is effective prophylaxis and well-tolerated. Fluoroquinolone prophylaxis is effective but increases risk of resistance and adverse effects. Probiotics lack convincing evidence for prevention.
 :::
 
-## Traveler's Diarrhea — Self-Treatment
+## Traveler's Diarrhea — Self-treatment
+
+<br>
 
 **Treatment Options**
 
 ::::: columns
 ::: {.column width="50%"}
-**Preferred Approach** - Azithromycin 500 mg once daily, 3 days [@Riddle2017] - Covers ETEC, Campylobacter, Shigella - Lower resistance rates than fluoroquinolones
+**Preferred Approach**
+
+-   Azithromycin 500 mg once daily, 3 days [@Riddle2017]
+
+-   Covers ETEC, *Campylobacter, Shigella*
+
+-   Lower resistance rates than fluoroquinolones
 :::
 
 ::: {.column width="50%"}
-**Alternative Approaches** - Fluoroquinolone (levofloxacin, ciprofloxacin) if available - Rifaximin 200 mg TID, 3 days (non-absorbed, minimal resistance) - Combination: loperamide + antibiotic
+**Alternative Approaches**
+
+-   Fluoroquinolone (levofloxacin, ciprofloxacin) if available
+
+-   Rifaximin 200 mg TID, 3 days (non-absorbed, minimal resistance)
+
+-   Symptomatic Therapy - Loperamide (Imodium): effective for cramping
+
+    -   Combine with antibiotic for faster resolution - Bismuth subsalicylate: both treatment and symptomatic relief
 :::
 :::::
 
-**Symptomatic Therapy** - Loperamide (Imodium): effective for cramping - Combine with antibiotic for faster resolution - Bismuth subsalicylate: both treatment and symptomatic relief
-
-::: notes
-Self-treatment of traveler's diarrhea with antibiotics can dramatically reduce duration and severity. Many travelers appreciate the ability to carry antibiotics for self-treatment if symptoms develop. Azithromycin is increasingly preferred over fluoroquinolones due to lower resistance rates in many regions. Rifaximin, a non-absorbed rifamycin, is effective against most causes and doesn't alter systemic microbiota, making it attractive. The combination of a motility agent and antibiotic provides both symptomatic relief and pathogen eradication. Counseling patients about when to self-treat versus seek care is important; persistent bloody diarrhea or fever warrants medical evaluation.
+::: aside
+Self-treatment of traveler's diarrhea with antibiotics can dramatically reduce duration and severity. The combination of a motility agent and antibiotic provides both symptomatic relief and pathogen eradication. Counseling patients about when to self-treat versus seek care is important; persistent bloody diarrhea or fever warrants medical evaluation.
 :::
 
 ## Diarrhea in HIV/AIDS
 
-**Epidemiology** - Affects 30-60% of patients with AIDS (CD4 \<200) [@Sanchez2005] - Incidence decreased markedly with antiretroviral therapy - ART with immune reconstitution reduces diarrheal disease
+<br>
 
-**Infectious Etiologies in AIDS** - Cryptosporidium parvum: most common parasitic cause - Cytomegalovirus: causes ulcerative colitis pattern - Microsporidium: can cause chronic diarrhea - Mycobacterium avium complex: systemic infection - Conventional pathogens remain common (Salmonella, Campylobacter)
+**Epidemiology**
+
+-   Affects 30-60% of patients with AIDS (CD4 \<200) [@Sanchez2005]
+
+-   Incidence decreased markedly with antiretroviral therapy
+
+-   ART with immune reconstitution reduces diarrheal disease
+
+**Infectious Etiologies in AIDS**
+
+-   Cryptosporidium parvum: most common parasitic cause
+
+-    Cytomegalovirus: causes ulcerative colitis pattern
+
+-   Microsporidium: can cause chronic diarrhea
+
+-   Mycobacterium avium complex: systemic infection
+
+-   Conventional pathogens remain common (*Salmonella, Campylobacter*)
 
 **Management** - Start/optimize antiretroviral therapy (most important) - Ganciclovir for CMV colitis - Multipathogen testing recommended - Empiric therapy based on CD4 count and epidemiology
 
-::: notes
-The epidemiology of diarrhea in HIV/AIDS has changed dramatically with effective antiretroviral therapy. In resource-rich settings with available ART, diarrheal disease in HIV patients has become uncommon. However, in areas with limited ART access and in patients with uncontrolled HIV replication, diarrhea remains a significant problem. The CD4 count strongly predicts which pathogens are likely: at CD4 \>200, conventional pathogens dominate; at CD4 \<100, opportunistic organisms like Cryptosporidium become common. The recognition that ART is the most important "treatment" for opportunistic diarrheal disease emphasizes the need for rapid virologic suppression.
-:::
+## Diarrhea in transplant recipients
 
-## Diarrhea in Transplant Recipients
+-   <br>
 
-**Frequency and Timing** - 50-80% of solid organ transplant (SOT) recipients experience diarrhea - Varies by organ type and immunosuppression level - Can occur months to years post-transplant
+-   **Frequency and Timing**
 
-**Infectious Etiologies** - Clostridioides difficile: most common infectious cause (9-20% incidence) [@McDonald2018] - Norovirus: prolonged shedding common - Cryptosporidium, Giardia, Cyclospora - Cytomegalovirus: ulcerative colitis pattern
+    -   50-80% of solid organ transplant (SOT) recipients experience diarrhea
 
-**Noninfectious Causes** - Up to 66% of cases in some series - Medication side effects (mycophenolate, tacrolimus) - Sorbitol-containing medications - IBD-like inflammation (idiopathic)
+    -   Varies by organ type and immunosuppression level -
 
-**Diagnostic Approach** - Multipathogen testing essential (stool culture, EIA, PCR) - Consider colonoscopy with biopsy - Address immunosuppression optimization
+    -   Can occur months to years post-transplant
 
-::: notes
-Diarrhea in transplant recipients presents diagnostic challenges because the differential is broad and includes both infectious and noninfectious causes. The immunosuppressive regimen predisposes to both conventional and opportunistic pathogens. C. difficile is the most common infectious cause, reflecting frequent antimicrobial exposure. Norovirus deserves special mention because it can cause chronic infection with prolonged viral shedding in transplant recipients. The high proportion of noninfectious causes means that while ruling out infection is important, many cases have medication-related or idiopathic causes requiring adjustment of immunosuppression or medications.
-:::
+-   **Infectious Etiologies**
 
-## Diarrhea in Immunocompromised Patients — General Approach
+    -   *Clostridioides difficile*: most common infectious cause (9-20% incidence) [@McDonald2018]
 
-**Key Diagnostic Principles** - Identify etiologic agent whenever possible (broad differential) - Multipathogen testing: stool culture, parasitic studies, molecular panel - Lower threshold for colonoscopy and biopsy - Consider unusual pathogens based on immune defect
+    -   Norovirus: prolonged shedding common
 
-**Treatment Considerations** - Pathogen-specific therapy when identified - Avoid empiric broad-spectrum antibiotics when possible - Address underlying immune defect (ART, immunosuppression optimization) - Monitor for immune recovery inflammation (MAC disease, IRIS)
+    -   Cryptosporidium, Giardia, Cyclospora
 
-::: notes
-Managing diarrhea in immunocompromised patients requires a systematic approach. The differential diagnosis is much broader than in immunocompetent hosts, including opportunistic pathogens that wouldn't be considered in otherwise healthy people. The degree and type of immune defect influences which pathogens are likely; CD4 count in HIV, neutrophil count in chemotherapy patients, and immunosuppressive regimen in transplant recipients all influence risk. Immune recovery inflammatory syndrome (IRIS) can occur in HIV patients when CD4 count recovers on ART, causing inflammatory diarrhea related to immune reconstitution rather than persistent infection.
-:::
+    -   Cytomegalovirus: ulcerative colitis pattern
 
-## Hospital-Acquired Diarrhea
+-   **Noninfectious Causes** - Up to 66% of cases in some series - medication side effects (mycophenolate, tacrolimus) , sorbitol-containing medications, IBD-like inflammation (idiopathic)
 
-**Epidemiology** - Occurs in 10-15% of hospitalized patients - Clostridioides difficile: most common infectious cause [@Lessa2015] - Associated with increased morbidity, mortality, and healthcare costs
+-   **Diagnostic Approach** - Multipathogen testing essential (stool culture, EIA, PCR)
 
-**Risk Factors** - Recent or current antimicrobial therapy (strongest risk factor) - Advanced age - Severity of underlying illness - Prolonged hospitalization - Immunosuppression
+    -   Consider colonoscopy with biopsy - Address immunosuppression optimization
 
-**Clinical Features** - Occurs after ≥3 days hospitalization - Watery diarrhea most common - Fever, leukocytosis, abdominal pain - Can progress to toxic megacolon or perforation
+## Diarrhea in immunocompromised patients — General approach
 
-**C. difficile-Associated Disease** - Toxin-mediated disease (toxin A, toxin B) - Antimicrobial exposure disrupts normal flora - Transmission via spores: contact precautions required - Increasing incidence of severe, recurrent disease
+<br>
 
-::: notes
-Hospital-acquired diarrhea is a significant problem with major cost and morbidity implications. C. difficile has emerged as the dominant healthcare-associated pathogen, outpacing other nosocomial infections. The key risk factor—antimicrobial therapy—is modifiable, highlighting the importance of antimicrobial stewardship. The spore-forming nature of C. difficile makes infection control challenging; standard hand sanitizers are ineffective, and handwashing with soap and water is required. Understanding C. difficile epidemiology and risk factors is essential for all hospitalized patient care.
-:::
+-   **Key Diagnostic Principles**
 
-## Diarrhea in Institutional Settings
+    -   Identify etiologic agent whenever possible (broad differential)
 
-**Long-Term Care Facilities** - One-third of residents experience diarrhea annually - C. difficile most common - Rotavirus, G. lamblia seasonal outbreaks - Norovirus rapid spread in winter - Nutritional impact: worsens outcomes in elderly
+    -   Multipathogen testing: stool culture, parasitic studies, molecular panel
 
-**Daycare and School Settings** - Rotavirus common in young children (prior to universal vaccination) - G. lamblia outbreaks in daycare - Shigella spread via fecal-oral route - ETEC in contaminated water/food - Exclusion policies important for control
+    -   Lower threshold for colonoscopy and biopsy
 
-**Neonatal Diarrhea** - Often caused by EPEC serotypes - Risk of severe dehydration in newborns - Historical mortality 24-50%; now \<5% with rehydration therapy - Insidious onset; requires high clinical suspicion - May present with failure to thrive
+    -   Consider unusual pathogens based on immune defect
 
-::: notes
-Institutional settings create unique epidemiology for diarrheal disease due to crowding and transmission routes. In long-term care, the combination of age, underlying illness, and antimicrobial exposure creates high risk for severe disease. Outbreaks in these settings can affect a large proportion of residents. Daycare and school settings show different patterns; rotavirus was historically the major cause in children before vaccination. Neonatal diarrhea remains a concern in developing countries where it contributes to infant mortality. The transition from acute watery diarrhea to failure to thrive can be insidious, requiring vigilance in sick neonates.
-:::
+-   **Treatment Considerations**
 
-## Principles of Treatment — Rehydration
+    -   Pathogen-specific therapy when identified
 
-**Oral Rehydration Solution (ORS)** - First-line for mild-moderate dehydration - WHO-recommended formulation: sodium 75 mmol/L, glucose 75 mmol/L, chloride 65 mmol/L, potassium 20 mmol/L - Effective for \>90% of acute diarrhea cases
+    -   Avoid empiric broad-spectrum antibiotics when possible
 
-**Rehydration Approach** - Replace ongoing losses (10 mL/kg per stool) - Add maintenance fluids - Early rehydration prevents severe dehydration - Resume age-appropriate diet early
+    -   Address underlying immune defect (ART, immunosuppression optimization)
 
-**IV Rehydration** - Reserved for severe dehydration, vomiting, shock - Normal saline or Ringer's lactate preferred - Careful electrolyte monitoring - Transition to oral when feasible
+    -    Monitor for immune recovery inflammation (MAC disease, IRIS)
 
-::: notes
+## Hospital-acquired diarrhea  {.smaller}
+
+<br>
+
+-   **Epidemiology**: Occurs in 10-15% of hospitalized patients
+
+    -   Clostridioides difficile: most common infectious cause [@Lessa2015]
+
+    -   Associated with increased morbidity, mortality, and healthcare costs
+
+-   **Risk factors:** Recent or current antimicrobial therapy (strongest risk factor)
+
+    -    Advanced age
+
+    -   Severity of underlying illness
+
+    -   Prolonged hospitalization
+
+    -   Immunosuppression
+
+-   **Clinical features** : Occurs after ≥3 days hospitalization
+
+    -   Watery diarrhea most common
+
+    -   Fever, leukocytosis, abdominal pain -
+
+    -   Can progress to toxic megacolon or perforation
+
+-   **C. difficile-associated disease**
+
+    -   Toxin-mediated disease (toxin A, toxin B) -Antimicrobial exposure disrupts normal flora
+
+    -   Transmission via spores: contact precautions required (hand sanitizer not sufficient)
+
+    -    Increasing incidence of severe, recurrent disease
+
+## Diarrhea in institutional settings  {.smaller}
+
+<br>
+
+-   **Long-Term Care Facilities**
+
+    -   One-third of residents experience diarrhea annually
+
+    -   C. difficile most common
+
+    -   Rotavirus, G. lamblia seasonal outbreaks
+
+    -    Norovirus rapid spread in winter
+
+    -   **Nutritional impact: worsens outcomes in elderly**
+
+-   **Daycare and School Settings**
+
+    -   Rotavirus common in young children (prior to universal vaccination)
+
+    -   G. lamblia outbreaks in daycare
+
+    -   Shigella spread via fecal-oral route
+
+    -    ETEC in contaminated water/food
+
+    -    Exclusion policies important for control
+
+-   **Neonatal diarrhea**
+
+    -   Often caused by EPEC serotypes
+
+    -   Risk of severe dehydration in newborns
+
+    -   Historical mortality 24-50%; now \<5% with rehydration therapy
+
+    -   Insidious onset; requires high clinical suspicion - May present with failure to thrive
+
+## Principles of treatment — Rehydration  {.smaller}
+
+<br>
+
+-   **Oral Rehydration Solution (ORS)**
+
+    -   First-line for mild-moderate dehydration
+
+    -   WHO-recommended formulation: sodium 75 mmol/L, glucose 75 mmol/L, chloride 65 mmol/L, potassium 20 mmol/L
+
+    -   Effective for \>90% of acute diarrhea cases
+
+-   **Rehydration Approach**
+
+    -   Replace ongoing losses (10 mL/kg per stool)
+
+    -    Add maintenance fluids
+
+    -   Early rehydration prevents severe dehydration
+
+    -   Resume age-appropriate diet early
+
+-   **IV Rehydration** - Reserved for severe dehydration, vomiting, shock
+
+    -   Normal saline or Ringer's lactate preferred
+
+    -   Careful electrolyte monitoring - Transition to oral when feasible
+
+::: aside
 Rehydration is the cornerstone of diarrheal disease treatment, and the introduction of ORS has been transformative in reducing mortality from diarrhea globally. The electrolyte composition of ORS is based on the sodium-glucose cotransport mechanism in the small intestine, which remains intact even in diarrheal disease. Most cases of acute diarrhea, even with significant initial dehydration, can be managed with ORS. Early feeding reduces diarrhea duration and prevents malnutrition. The need for IV rehydration is reserved for cases with signs of shock, persistent vomiting, or severe dehydration unable to drink.
 :::
 
-## Symptomatic Treatment
+## Symptomatic Treatment  {.smaller}
 
-**Bismuth Subsalicylate (Pepto-Bismol)** - Reduces diarrheal volume by 30-50% - Antimicrobial properties against several pathogens - Useful for both prophylaxis and treatment - Avoid in salicylate allergy; concern for drug interactions - Useful in traveler's diarrhea management
+<br>
 
-**Antimotility Agents: Use with Caution** - Loperamide (Imodium): effective for cramping - Risk: can precipitate toxic megacolon (contraindicated in bloody diarrhea, fever, severe disease) - Never use with suspected EHEC - Combined with antibiotics: effective for traveler's diarrhea - Generally safe in mild, watery, non-inflammatory diarrhea
+-   **Bismuth Subsalicylate**
 
-**Probiotics** - Insufficient evidence for general recommendation - May be role in specific contexts (antibiotic-associated diarrhea) - Not harmful but not proven beneficial in most diarrhea
+    -   Reduces diarrheal volume by 30-50%
 
-::: notes
-Symptomatic management can improve patient comfort while allowing natural resolution of infection. Bismuth subsalicylate has both antimicrobial and symptomatic benefits, making it useful in traveler's diarrhea. Antimotility agents require clinical judgment; they're safe in uncomplicated watery diarrhea but contraindicated when there's concern for invasive infection, fever, or bloody stools because they increase risk of complications like toxic megacolon. The combined use of antimotility agents with antibiotics in traveler's diarrhea deserves special mention—this combination is very effective because the antibiotic kills the pathogen and the antimotility agent reduces symptoms. Probiotics remain controversial; some patients request them, but evidence for benefit in acute diarrhea is limited.
+    -   Antimicrobial properties against several pathogens
+
+    -   Useful for both prophylaxis and treatment
+
+    -   Avoid in salicylate allergy; concern for drug interactions - Useful in traveler's diarrhea management
+
+-   **Antimotility Agents: Use with Caution** - Loperamide (Imodium): effective for cramping
+
+    -   Risk: can precipitate toxic megacolon **(contraindicated in bloody diarrhea, fever, severe disease**)
+
+    -   Never use with suspected EHEC
+
+    -   Combined with antibiotics: effective for traveler's diarrhea
+
+    -   Generally safe in mild, watery, non-inflammatory diarrhea
+
+-   **Probiotics**
+
+    -   Insufficient evidence for general recommendation
+
+    -   May be role in specific contexts (antibiotic-associated diarrhea)
+
+    -   Not harmful but not proven beneficial in most diarrhea
+
+::: aside
+Bismuth subsalicylate has both antimicrobial and symptomatic benefits, making it useful in traveler's diarrhea. Antimotility agents require clinical judgment; they're safe in uncomplicated watery diarrhea but contraindicated when there's concern for invasive infection, fever, or bloody stools because they increase risk of complications like toxic megacolon. The combined use of antimotility agents with antibiotics in traveler's diarrhea deserves special mention—this combination is very effective because the antibiotic kills the pathogen and the antimotility agent reduces symptoms. Probiotics remain controversial; some patients request them, but evidence for benefit in acute diarrhea is limited.
 :::
 
 ## When to Use Antibiotics
 
-**Empiric Antibiotics Recommended For:** - Severe diarrhea (bloody, fever, \>8 stools/day) - Diarrhea in immunocompromised patients - Traveler's diarrhea (if symptomatic treatment not effective) - Suspected invasive pathogen (Salmonella bacteremia, Shigella in systemically ill) - Institutional outbreaks (control transmission)
+-   **Empiric Antibiotics Recommended For:**
 
-**Avoid Antibiotics:** - Suspected or confirmed EHEC/STEC (increases HUS risk) - Viral diarrhea - Mild, watery, non-bloody diarrhea in immunocompetent hosts - Non-typhoidal Salmonella gastroenteritis in most patients
+    -   Severe diarrhea (bloody, fever, \>8 stools/day)
 
-**First-Line Empiric Choices** - Azithromycin 500 mg daily × 3 days (preferred for traveler's diarrhea) - Fluoroquinolone (ciprofloxacin 500 mg BID × 3 days) where resistance is low - Adjust based on local resistance patterns
+    -   Diarrhea in immunocompromised patients
+
+    -   Traveler's diarrhea (if symptomatic treatment not effective)
+
+    -   Suspected invasive pathogen (Salmonella bacteremia, Shigella in systemically ill)
+
+    -    Institutional outbreaks (control transmission)
+
+-   **Avoid Antibiotics:** Suspected or confirmed EHEC/STEC (increases HUS risk)
+
+    -   Viral diarrhea - Mild, watery, non-bloody diarrhea in immunocompetent hosts
+
+    -   Non-typhoidal Salmonella gastroenteritis in most patients
+
+**First-Line Empiric Choices**
+
+-   Azithromycin 500 mg daily × 3 days (preferred for traveler's diarrhea)
+
+-   Fluoroquinolone (ciprofloxacin 500 mg BID × 3 days) where resistance is low
+
+-   Adjust based on local resistance patterns
 
 ::: notes
-Antimicrobial stewardship principles apply to diarrheal disease management. Not all diarrhea requires antibiotics; many cases resolve faster with supportive care alone than with empiric therapy. The decision to treat empirically should consider severity, immunocompetence, and likelihood of bacterial infection. In developed countries, most acute diarrhea is viral and self-limited, making empiric antibiotics unnecessary. In areas with high rates of invasive bacterial diarrhea and where hydration access is limited, empiric therapy may be more appropriate. The critical exception is EHEC, where antibiotics paradoxically worsen outcomes.
+In developed countries, most acute diarrhea is viral and self-limited, making empiric antibiotics unnecessary. In areas with high rates of invasive bacterial diarrhea and where hydration access is limited, empiric therapy may be more appropriate. **The critical exception is EHEC, where antibiotics paradoxically worsen outcomes.**
 :::
 
-## Micronutrient Supplementation
+## Micronutrient supplementation  {.smaller}
 
-**Zinc Supplementation** - Particularly in children \<5 years in developing countries [@Lazzerini2016] - Reduces duration and severity of diarrhea - Decreases risk of subsequent infections for 2-3 months - Dose: 10-20 mg elemental zinc daily for 10-14 days - Strong evidence supports benefit, especially in malnourished children
+<br>
 
-**Other Micronutrients** - Vitamin A: benefit in deficient populations - Iron: avoid during acute infection (may worsen) - Folate, B vitamins: supportive during recovery
+-   **Zinc Supplementation**
+
+    -    Particularly in children \<5 years in developing countries [@Lazzerini2016]
+
+    -   Reduces duration and severity of diarrhea
+
+    -   Decreases risk of subsequent infections for 2-3 months
+
+    -   Dose: 10-20 mg elemental zinc daily for 10-14 days
+
+    -    Strong evidence supports benefit, especially in malnourished children
+
+-   **Other Micronutrients**
+
+    -   Vitamin A: benefit in deficient populations
+
+    -   Iron: avoid during acute infection (may worsen)
+
+    -   Folate, B vitamins: supportive during recovery
 
 **Role in Developed Countries** - Less emphasis (better nutritional status baseline) - Consider in malnourished or vulnerable populations - Not harmful if administered
 
-::: notes
-Zinc supplementation during diarrheal illness has strong evidence for benefit, particularly in developing countries where zinc deficiency is common. The mechanism involves improved intestinal barrier function and immune response. Even in developed countries, zinc supplementation during severe or prolonged diarrhea may be beneficial, though the evidence is less robust. The evidence for other micronutrient supplementation is more limited. The key clinical point is that nutritional support during and after diarrhea promotes recovery and prevents complications like secondary infections and failure to thrive.
+::: aside
+Zinc supplementation during diarrheal illness has strong evidence for benefit, particularly in developing countries where zinc deficiency is common. The mechanism involves improved intestinal barrier function and immune response. Even in developed countries, zinc supplementation during severe or prolonged diarrhea may be beneficial, though the evidence is less robust. The evidence for other micronutrient supplementation is more limited.
 :::
 
 ## Key Take-Home Messages
@@ -1474,19 +1726,83 @@ Zinc supplementation during diarrheal illness has strong evidence for benefit, p
 5.  **Geographic and risk-factor epidemiology matters** — tailor diagnostic approach and empiric therapy based on exposure history and patient factors
 :::
 
-::: notes
-These core principles guide management of the thousands of patients with diarrheal illness seen in clinical practice. The emphasis on rehydration over antibiotics reflects the reality that most cases improve with supportive care. The specific attention to EHEC reflects the potential for harm from inappropriate treatment. Understanding epidemiology helps avoid unnecessary testing while ensuring key pathogens aren't missed.
-:::
+## Clinical decision Framework
 
-## Clinical Decision Framework
+```{=html}
+<div style="font-family:'Helvetica Neue',Arial,sans-serif; font-size:0.68em; line-height:1.45; width:100%; box-sizing:border-box; padding:0 4px;">
 
-**Step 1: Assess Severity** - Evaluate dehydration, vital signs, systemic symptoms - Severe disease: bloody stools, high fever (\>39°C), altered mental status, signs of shock
+  <!-- Step 1 -->
+  <div style="background:#fdecea; border:2px solid #c0392b; border-radius:8px; padding:7px 16px; text-align:center;">
+    <span style="font-weight:700; color:#c0392b; font-size:1.1em;">&#9312; Assess Severity</span><br>
+    Dehydration &nbsp;&bull;&nbsp; Vital signs &nbsp;&bull;&nbsp; Systemic symptoms<br>
+    <span style="background:#f8d7da; border-radius:4px; padding:2px 10px; margin-top:3px; display:inline-block;">
+      &#9888; Red flags: bloody stools &nbsp;|&nbsp; fever &gt;39&deg;C &nbsp;|&nbsp; altered mental status &nbsp;|&nbsp; shock
+    </span>
+  </div>
 
-**Step 2: Obtain Targeted History** - Travel to endemic regions; duration and type of exposure - Food/water exposure; sick contacts - Immunocompromise; recent antibiotics - Medication review
+  <!-- Arrow -->
+  <div style="text-align:center; font-size:1.6em; color:#777; line-height:1.2;">&#8595;</div>
 
-**Step 3: Decide on Testing** - **Test if**: bloody diarrhea, fever \>38.5°C, systemic illness, immunocompromised, \>7 days duration - **Don't test**: mild watery diarrhea \<7 days, no red flags in immunocompetent
+  <!-- Step 2 -->
+  <div style="background:#e8f0fe; border:2px solid #2c6fad; border-radius:8px; padding:7px 16px; text-align:center;">
+    <span style="font-weight:700; color:#2c6fad; font-size:1.1em;">&#9313; Targeted History</span><br>
+    Travel &nbsp;&bull;&nbsp; Food/water exposure &nbsp;&bull;&nbsp; Sick contacts &nbsp;&bull;&nbsp; Immunocompromise &nbsp;&bull;&nbsp; Recent antibiotics &nbsp;&bull;&nbsp; Medications
+  </div>
 
-**Step 4: Decide on Treatment** - Rehydration: first-line for all - Antibiotics: only if criteria for bacterial infection met; avoid for suspected EHEC - Symptomatic therapy: reasonable if no contraindications
+  <!-- Arrow -->
+  <div style="text-align:center; font-size:1.6em; color:#777; line-height:1.2;">&#8595;</div>
+
+  <!-- Step 3 header -->
+  <div style="background:#fff8e1; border:2px solid #e67e22; border-radius:8px; padding:6px 16px; text-align:center;">
+    <span style="font-weight:700; color:#e67e22; font-size:1.1em;">&#9314; Decide on Testing</span>
+  </div>
+
+  <!-- Diverging arrows -->
+  <div style="display:flex; justify-content:space-between; padding:0 20%; font-size:1.4em; color:#777; line-height:1.1;">
+    <span>&#8601;</span><span>&#8600;</span>
+  </div>
+
+  <!-- Two branches -->
+  <div style="display:flex; gap:12px; align-items:stretch;">
+
+    <div style="flex:1; background:#e8f8e8; border:2px solid #27ae60; border-radius:8px; padding:7px 12px;">
+      <div style="font-weight:700; color:#27ae60; margin-bottom:4px; text-align:center;">&#10003; Send Testing</div>
+      <div style="color:#222;">
+        &bull; Bloody diarrhea<br>
+        &bull; Fever &gt;38.5&deg;C<br>
+        &bull; Systemic illness<br>
+        &bull; Immunocompromised<br>
+        &bull; Duration &gt;7 days
+      </div>
+    </div>
+
+    <div style="flex:1; background:#f4f4f4; border:2px solid #999; border-radius:8px; padding:7px 12px;">
+      <div style="font-weight:700; color:#555; margin-bottom:4px; text-align:center;">&#10007; No Testing Needed</div>
+      <div style="color:#444;">
+        &bull; Mild watery diarrhea &lt;7 days<br>
+        &bull; No red flags<br>
+        &bull; Immunocompetent host
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Converging arrows -->
+  <div style="display:flex; gap:12px; font-size:1.4em; color:#777; line-height:1.1; margin-top:0;">
+    <div style="flex:1; text-align:center;">&#8595;</div>
+    <div style="flex:1; text-align:center;">&#8595;</div>
+  </div>
+
+  <!-- Step 4 -->
+  <div style="background:#e8f8f2; border:2px solid #16a085; border-radius:8px; padding:7px 16px; text-align:center;">
+    <span style="font-weight:700; color:#16a085; font-size:1.1em;">&#9315; Treatment</span><br>
+    <span style="font-weight:600;">Rehydration</span> &mdash; first-line for all &nbsp;&nbsp;&nbsp;
+    <span style="font-weight:600;">Antibiotics</span> &mdash; only if bacterial criteria met; avoid for EHEC &nbsp;&nbsp;&nbsp;
+    <span style="font-weight:600;">Symptomatics</span> &mdash; if no contraindications
+  </div>
+
+</div>
+```
 
 ::: notes
 This framework provides structure for approaching the patient with diarrhea in clinical practice. The initial assessment of severity determines urgency and hospitalization needs. The history provides crucial context—a traveler with diarrhea has different differential than a hospitalized patient with diarrhea. Testing decisions should be selective; routine cultures on every case of diarrhea are wasteful. Treatment decisions flow from assessment of severity and likelihood of bacterial infection. This systematic approach ensures appropriate management while avoiding unnecessary testing and antibiotics.
@@ -1506,10 +1822,4 @@ Key references for this lecture on infectious diarrheal diseases. Additional cit
 
 -   Platts-Mills JA, et al. Pathogen-specific burdens of community diarrhoea in developing countries. Lancet Glob Health. 2015.
 
-## Questions and Discussion
 
-Thank you for your attention. Time for your questions and clinical pearls to share from your experiences.
-
-::: notes
-This closing slide allows transition to interactive discussion with the audience. The 90-120 minute lecture has covered the major pathogens causing infectious diarrhea, their pathophysiology, epidemiology, clinical features, diagnosis, and management. The focus throughout has been on practical clinical decision-making that balances diagnostic testing, antimicrobial therapy, and supportive care. Audience engagement and discussion of local epidemiology and management challenges enhances learning and allows tailoring to specific clinical contexts.
-:::
