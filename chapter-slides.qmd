@@ -149,7 +149,7 @@ Understanding pathophysiology helps predict clinical presentation. Pathogens tha
 
 -   Bloody or mucoid stools
 
-**Associated Symptoms** - Abdominal cramping/pain -sstemic symptoms less common
+**Associated Symptoms** - Abdominal cramping/pain -sytemic symptoms less common
 :::
 :::::
 
@@ -182,7 +182,7 @@ Most diarrhea is viral and self-limited. Stool cultures are positive in less tha
 
 -   Affects all ages, including highly immune populations
 
--   Mean incubation: 24-48 hours - "Winter vomiting disease" (northern hemisphere)
+-   Mean incubation: 24-48 hours - "Winter vomiting disease" (Northern hemisphere)
 :::
 
 ::: {.column width="50%"}
@@ -204,24 +204,22 @@ Norovirus is the leading cause of foodborne disease outbreaks in Eruope and the 
 ::: {.column width="50%"}
 **Viral Characteristics**
 
--   Non-enveloped RNA virus, Caliciviridae family - Multiple genotypes;no lasting immunity after infection [@Patel2008]
+-   Non-enveloped RNA virus, Caliciviridae family - Multiple genotypes; no lasting immunity after infection [@Patel2008]
 
 -   Extremely stable: resists alcohol, chlorine, temperatures to 60°C
 
 **Transmission Routes**
 
--   Primarily fecal-oral
+-   Primarily fecal-oral \>aerosol transmission documented
 
--   Aerosol transmission documented (vomiting)
-
--   Fomite transmission (contaminated surfaces)
-
--   Can survive environmental conditions for weeks
+-   Fomite transmission (contaminated surfaces)- Can survive environmental conditions for weeks
 :::
 :::::
 
 ::: aside
-Norovirus's resistance to environmental conditions and disinfectants makes outbreak control challenging. Standard hand sanitizers with alcohol are ineffective; handwashing with soap and water is required. The lack of long-lasting immunity means people can be reinfected multiple times throughout life with different genotypes. The tendency for aerosol transmission during vomiting is why outbreaks can spread so rapidly in enclosed spaces. Understanding these transmission routes is critical for outbreak management and prevention counseling.
+<br> <br>
+
+Norovirus's resistance to environmental conditions and disinfectants makes outbreak control challenging. Standard hand sanitizers with alcohol are ineffective; handwashing with soap and water is required. The lack of long-lasting immunity means people can be reinfected multiple times throughout life with different genotypes. The tendency for aerosol transmission during vomiting is why outbreaks can spread so rapidly in enclosed spaces.
 :::
 
 ## Norovirus clinical manifestations
@@ -262,7 +260,7 @@ Secondary bacterial infection rare
 Norovirus typically causes a self-limited illness, and the focus of management is prevention of dehydration. Unlike bacterial gastroenteritis, antibiotic therapy is ineffective and unnecessary. The combination of vomiting and diarrhea can lead to rapid fluid losses, particularly in the elderly and very young. Most patients recover completely without intervention. Diagnosis is usually clinical in the context of an outbreak, but PCR testing is increasingly available and used for epidemiologic purposes in outbreak investigations.
 :::
 
-## Norovirus in immunocompromised Patients
+## Norovirus in immunocompromised patients
 
 <br>
 
@@ -290,438 +288,1007 @@ Norovirus typically causes a self-limited illness, and the focus of management i
 Immunocompromised patients, particularly those with severe T-cell defects (advanced HIV, post-transplant), can develop chronic norovirus infection. Unlike immunocompetent hosts who clear infection in days, these patients may shed virus for prolonged periods.
 :::
 
-## Norovirus Outbreak Management
+## Norovirus outbreak management
 
-::: incremental
-**Prevention Measures** - Hand hygiene with soap and water (alcohol ineffective) - Environmental cleaning with chlorine-based disinfectants (0.5-1% bleach) - Surface decontamination: quaternary ammonium compounds - Isolation precautions for symptomatic patients
+<br> <br>
 
-**Outbreak Control** - Early detection and reporting to public health - Exclusion of food handlers until 48 hours symptom-free - Restriction of admitted patients in healthcare settings
+**Prevention Measures**
+
+-   Hand hygiene with soap and water (alcohol ineffective)
+
+-   Environmental cleaning with chlorine-based disinfectants (0.5-1% bleach)
+
+-   Surface decontamination: quaternary ammonium compounds
+
+-   Isolation precautions for symptomatic patients
+
+**Outbreak Control**
+
+-   Early detection and reporting to public health
+
+-   Exclusion of food handlers until 48 hours symptom-free
+
+-   Restriction of admitted patients in healthcare settings
+
+::: aside
+Norovirus outbreak management requires understanding of the virus's stability and transmission. Simply using hand sanitizer won't prevent transmission—patients must wash with soap and water to mechanically remove virus. Environmental cleaning is critical; bleach solutions are effective disinfectants. In healthcare settings, contact precautions and dedicated patient care equipment can limit spread.
 :::
 
-::: notes
-Norovirus outbreak management requires understanding of the virus's stability and transmission. Simply using hand sanitizer won't prevent transmission—patients must wash with soap and water to mechanically remove virus. Environmental cleaning is critical; bleach solutions are effective disinfectants. In healthcare settings, contact precautions and dedicated patient care equipment can limit spread. The economic impact of norovirus outbreaks is substantial due to closure of institutions and lost productivity, making prevention critically important.
-:::
+## Rotavirus overview
 
-## Rotavirus Overview
+<br>
 
 ::::: columns
 ::: {.column width="50%"}
-**Epidemiology** - Most common cause of severe diarrhea in children worldwide [@Parashar2006] - \>100 million cases annually - Approximately 150,000 deaths in children \<5 years [@Tate2012] - Peak incidence: 6-24 months age
+**Epidemiology**
+
+-   Most common cause of severe diarrhea in children worldwide [@Parashar2006] - \>100 million cases annually
+
+-   Approximately 150,000 deaths in children \<5 years [@Tate2012]
+
+-   Peak incidence: 6-24 months age
 :::
 
 ::: {.column width="50%"}
-![](images/slides-013.jpg){width="350"}
+![](images/slides-013.jpg){width="800"}
 :::
 :::::
 
-**Clinical Course** - Duration 3-8 days - Often more severe than norovirus - Dehydration: primary complication
+**Clinical Course**
 
-::: notes
-Before rotavirus vaccines, rotavirus was the leading cause of severe diarrhea in children globally. It caused significant morbidity and mortality, particularly in developing countries. The introduction of rotavirus vaccines (RotaTeq and Rotarix) has dramatically changed the epidemiology in countries with immunization programs. Rotavirus is still a significant problem in areas without vaccine access. Understanding rotavirus remains important because breakthrough infections occur, and healthcare workers still encounter it in unvaccinated or incompletely vaccinated children.
+-   Duration 3-8 days , often more severe than norovirus
+
+-   Dehydration: primary complication
+
+::: aside
+Before rotavirus vaccines, rotavirus was the leading cause of severe diarrhea in children globally. It caused significant morbidity and mortality, particularly in developing countries. The introduction of rotavirus vaccines (RotaTeq and Rotarix) has dramatically changed the epidemiology in countries with immunization programs. Rotavirus is still a significant problem in areas without vaccine access.
 :::
 
-## Rotavirus Pathophysiology
+## Rotavirus pathophysiology
 
-**Viral Characteristics** - 70 nm non-enveloped RNA virus (Reoviridae family) - Segmented genome with multiple genes encoding virulence factors
+![](images/Screenshot%202026-03-20%20105308.png){fig-align="center" width="300"}
 
-::: incremental
+**Viral Characteristics**
+
+-   70 nm non-enveloped RNA virus (Reoviridae family)
+
+-   Segmented genome with multiple genes encoding virulence factors
+
 **Mechanisms of Diarrhea** - Villus shortening and disruption - Brush-border enzyme deficiency (lactase, sucrase) - Calcium-dependent enterotoxin production (NSP4) - Impaired water and ion absorption
-:::
 
-::: notes
+::: aside
 Rotavirus's pathophysiology is complex and explains some clinical features. The villus disruption impairs absorption and leads to nutritional losses. The enterotoxin activates fluid secretion, contributing to large stool volumes. The brush-border enzyme deficiency explains why secondary lactose intolerance is common—the damaged epithelium cannot produce lactase, so milk products worsen diarrhea temporarily. This has clinical implications for nutritional management. Understanding that diarrhea is multifactorial (invasive plus secretory mechanisms) helps explain why rotavirus can be more severe than purely secretory pathogens.
 :::
 
-## Rotavirus Vaccines
+## Rotavirus vaccines
+
+<br>
 
 **Available Vaccines**
 
 ::::: columns
 ::: {.column width="50%"}
 **RotaTeq (Pentavalent)** - Manufactured by Merck - 3-dose series - RV1, RV2, RV3, RV4, RV5
+
+**Rotarix (Monovalent)** - Manufactured by GSK - 2-dose series - RV1 genotype coverage
+
+**Impact on Disease**:
+
+-   Dramatic reduction in hospitalizations (\>90%) [@Vesikari2006; @Ruiz-Palacios2006]
+
+-   \$1.2 billion in healthcare cost savings in US per year
+
+-   Significant reduction in mortality globally in vaccinated populations
 :::
 
 ::: {.column width="50%"}
-**Rotarix (Monovalent)** - Manufactured by GSK - 2-dose series - RV1 genotype coverage
+![](images/slides-016.jpg){width="600"}
 :::
 :::::
 
-**Impact on Disease** - Dramatic reduction in hospitalizations (\>90%) [@Vesikari2006; @Ruiz-Palacios2006] - \$1.2 billion in healthcare cost savings in US per year - Significant reduction in mortality globally in vaccinated populations
-
-::: notes
-Rotavirus vaccines are among the most cost-effective vaccines available, particularly in developing countries where rotavirus mortality is highest. Both available vaccines are live attenuated oral vaccines given to infants. The vaccines are highly effective at preventing severe disease, though breakthrough infections with milder symptoms can occur. Vaccination programs have transformed rotavirus epidemiology in developed countries, shifting disease from young children to occasionally-affected vaccinated children with milder disease. Global expansion of rotavirus vaccination remains a key public health priority given the ongoing burden in unvaccinated populations.
+::: aside
+Both available vaccines are live attenuated oral vaccines given to infants. The vaccines are highly effective at preventing severe disease, though breakthrough infections with milder symptoms can occur.
 :::
 
-## Rotavirus — Key Clinical Points
+## Rotavirus — Key clinical points
 
-**Typical Presentation** - Watery, non-bloody diarrhea - Vomiting less prominent than with norovirus - Respiratory symptoms occasionally present (suggests dual viral infection)
+<br>
 
-**Risk Factors for Severe Disease** - Age \<24 months - Malnutrition - Lack of prior exposure/vaccination - Comorbid conditions
+**Typical presentation**
 
-**Epidemiology** - Common in daycare settings - Seasonal: winter months and dry seasons in temperate climates
+-   Watery, non-bloody diarrhea
 
-::: notes
-In clinical practice, rotavirus typically presents in young children with watery diarrhea and dehydration. The absence of prominent vomiting (compared to norovirus) doesn't mean vomiting doesn't occur—it's just less frequent. Rotavirus commonly spreads through daycare centers; it's a reportable condition in many jurisdictions for this reason. The seasonal pattern varies by geography but generally corresponds to cooler, drier months in temperate zones. Most rotavirus infections in vaccinated populations are mild; when you see severe rotavirus disease in a developed country, consider vaccination status or immunocompromise.
-:::
+-   Vomiting less prominent than with norovirus
 
-## Other Viral Pathogens
+-   Respiratory symptoms occasionally present (suggests dual viral infection)
+
+**Risk factors for severe disease**
+
+-   Age \<24 months
+
+-   Malnutrition
+
+-   Lack of prior exposure/vaccination
+
+-   Comorbid conditions
+
+**Epidemiology**
+
+-   Common in daycare settings and seasonal: winter months and dry seasons in temperate climates
+
+## Other viral pathogens
+
+<br>
 
 | Virus | Age Group | Key Features |
-|-------------------|------------------------|-----------------------------|
+|------------------------|------------------------|------------------------|
 | Sapovirus | Children | Similar to norovirus; outbreaks |
 | Astrovirus | Young children | Milder than rotavirus |
 | Adenovirus 40/41 | Infants/toddlers | Winter seasonality |
 | Enteroviruses | Variable | Rash sometimes present |
-| Coronaviruses (SARS-CoV-2) | All ages | Mild GI symptoms often with respiratory |
+| Coronaviruses <br> (SARS-CoV-2) | All ages | Mild GI symptoms often with respiratory |
 
-::: notes
+::: aside
 This table summarizes other viral pathogens that cause diarrhea. While less common than norovirus and rotavirus in most settings, these agents still cause significant disease. Sapovirus resembles norovirus clinically and epidemiologically. Astrovirus and Adenovirus 40/41 are primarily pediatric pathogens. Enteroviral infections may have systemic manifestations beyond GI symptoms. The COVID-19 pandemic has reminded us that respiratory viruses can cause GI symptoms; in fact, GI symptoms were present in 10-30% of early COVID-19 cases. All viral gastroenteritis is primarily managed with supportive care.
 :::
 
-## Enterotoxigenic E. coli (ETEC) Overview
+# Bacterial etiologies {background-color="#9B0014"}
 
-**Epidemiology & Pathogenesis** - Leading cause of acute diarrhea in developing countries [@Qadri2005] - Survives in water; transmitted via contaminated food/water - Produces enterotoxins: heat-labile (LT) and heat-stable (ST) toxins
-
-**Clinical Presentation** - Watery diarrhea, often dehydrating - Nausea common; vomiting less frequent - Fever absent or mild - Duration typically 3-5 days
-
-::: notes
-ETEC is the most common cause of traveler's diarrhea in many destinations. Understanding the toxin-mediated mechanism explains the large-volume watery stools—these are secretory diarrhea similar to cholera. The lack of fever or prominent systemic symptoms helps distinguish ETEC from invasive pathogens. ETEC survives environmental conditions better than many Salmonella or Shigella strains, making it particularly problematic in areas with poor water treatment. The prevalence varies geographically; understanding regional epidemiology guides empiric therapy when treating traveler's diarrhea.
-:::
-
-## ETEC Toxins and Mechanisms
+## Enterotoxigenic E. coli (ETEC) overview
 
 ::::: columns
 ::: {.column width="50%"}
-**Heat-Labile Toxin (LT)** - Similar to cholera toxin - Activates adenylate cyclase - Increases cAMP - Stimulates secretion
+**Epidemiology & Pathogenesis**
+
+-   Leading cause of acute diarrhea in developing countries [@Qadri2005]
+
+-   Survives in water; transmitted via contaminated food/water
+
+-   Produces enterotoxins: heat-labile (LT) and heat-stable (ST) toxins
+
+**Clinical Presentation**
+
+-   Watery diarrhea, often dehydrating
+
+-   Nausea common; vomiting less frequent
+
+-   Fever absent or mild
+
+-   Duration typically 3-5 days
 :::
 
 ::: {.column width="50%"}
-**Heat-Stable Toxin (ST)** - Smaller molecular weight - Activates guanylate cyclase - Increases cGMP - More tissue-specific
+![](images/etec.png)
+:::
+:::::
+
+::: aside
+Understanding the toxin-mediated mechanism explains the large-volume watery stools—these are secretory diarrhea similar to cholera. **The lack of fever or prominent systemic symptoms helps distinguish ETEC from invasive pathogens.**
+:::
+
+## ETEC Toxins and mechanisms
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+**Heat-Labile Toxin (LT)**
+
+-   Similar to cholera toxin
+
+-   Activates adenylate cyclase
+
+-   Increases cAMP
+
+-   Stimulates secretion
+:::
+
+::: {.column width="50%"}
+**Heat-Stable Toxin (ST)**
+
+-   Smaller molecular weight
+
+-   Activates guanylate cyclase
+
+-   Increases cGMP
+
+-   More tissue-specific
 :::
 :::::
 
 **Result**: Increased intestinal cyclic nucleotides → electrolyte and water secretion → watery diarrhea
 
-::: notes
-The toxin-mediated secretory mechanism explains the clinical and pathophysiologic features of ETEC infection. Both toxins work through G-protein coupled signaling but use different second messengers. The LT toxin's similarity to cholera toxin means the diarrhea can be severe and dehydrating. Importantly, the epithelial barrier remains intact in toxin-mediated disease—there's no blood in stool and no invasive infection. This has implications for prognosis and treatment; most patients recover with rehydration alone. The toxins are heat-stable or heat-labile, explaining why food preparation temperature matters in transmission prevention.
+::: aside
+The toxin-mediated secretory mechanism explains the clinical and pathophysiologic features of ETEC infection. Both toxins work through G-protein coupled signaling but use different second messengers. The LT toxin's similarity to cholera toxin means the diarrhea can be severe and dehydrating. **Importantly, the epithelial barrier remains intact in toxin-mediated disease—there's no blood in stool and no invasive infection.** This has implications for prognosis and treatment; most patients recover with rehydration alone. The toxins are heat-stable or heat-labile, explaining why food preparation temperature matters in transmission prevention.
 :::
 
-## Other Pathogenic E. coli Strains
+## Other Pathogenic *E. coli* Strains
 
-**EPEC (Enteropathogenic E. coli)** - Primarily affects children \<6 months - Contains Eae gene encoding adhesin - Causes attaching and effacing lesions - Non-bloody watery diarrhea
+<br>
 
-**EIEC (Enteroinvasive E. coli)** - Invasive mechanism similar to Shigella - Bloody diarrhea with systemic symptoms - Fever and abdominal pain common
+**EPEC (Enteropathogenic E. coli)**
 
-**EAEC (Enteroaggregative E. coli)** - Biofilm formation on epithelium - Causes persistent or chronic diarrhea (\>14 days) - Often associated with travel to developing countries
+-   Primarily affects children \<6 months
 
-::: notes
-These pathogenic E. coli strains use different virulence mechanisms and cause different clinical syndromes. EPEC is primarily a pediatric pathogen in developing countries; in developed countries, you're more likely to see ETEC in travelers. EIEC resembles Shigella clinically and epidemiologically—it's invasive and causes dysentery. EAEC is notable for causing persistent diarrhea, which has different implications for testing and treatment than acute self-limited diarrhea. Distinguishing between different pathogenic E. coli strains requires molecular testing; they don't grow differently on routine culture media.
+-   Contains Eae gene encoding adhesin
+
+-   Causes attaching and effacing lesions - **Non-bloody watery diarrhea**
+
+**EIEC (Enteroinvasive E. coli)**
+
+-   Invasive mechanism similar to *Shigella*
+
+-   **Bloody diarrhea with systemic symptom**s - Fever and abdominal pain common
+
+**EAEC (Enteroaggregative E. coli)**
+
+-   Biofilm formation on epithelium- causes persistent or chronic **non-bloody** diarrhea (\>14 days)
+
+-   Often associated with travel to developing countries
+
+::: aside
+Distinguishing between different pathogenic *E. coli*strains requires molecular testing; they don't grow differently on routine culture media.
 :::
 
-## EHEC/STEC Overview
+## EHEC/STEC overview
 
-**Clinical Significance** - Shiga toxin-producing E. coli (STEC) strains - E. coli O157:H7 most common in North America [@Karch2005] - Multiple non-motile serotypes cause disease - Shiga toxin causes microangiopathic hemolytic damage [@Tarr2005]
+<br>
 
-![](images/slides-017.jpg){width="400"}
+::::: columns
+::: {.column width="50%"}
+**Clinical Significance**
 
-::: notes
-STEC infections are notably important because of the potential for life-threatening complications, particularly hemolytic uremic syndrome. While the initial presentation is typically bloody diarrhea, the systemic complications distinguish this from other bacterial diarrheal pathogens. The Shiga toxins (Stx1 and Stx2) are AB toxins that inhibit protein synthesis in endothelial cells, leading to thrombotic microangiopathy. O157:H7 is serotypically identifiable but other STEC strains (O103, O111, O26, O145) require molecular detection. Understanding STEC is critical because antimicrobial therapy choice directly impacts risk of complications.
+-   Shiga toxin-producing E. coli (STEC) strains
+
+-   *E. coli* O157:H7 most common in North America [@Karch2005]
+
+-   Multiple non-motile serotypes cause disease
+
+-   Shiga toxin causes microangiopathic hemolytic damage [@Tarr2005]
 :::
 
-## Hemolytic Uremic Syndrome (HUS)
+::: {.column width="50%"}
+![](images/clipboard-3020172101.jpeg){width="600"}
+:::
+:::::
 
-**STEC-Associated HUS** - Occurs in approximately 5-15% of STEC infections - Often follows 3-5 days of hemorrhagic diarrhea - Triad: microangiopathic hemolytic anemia, thrombocytopenia, acute kidney injury
-
-**Prognosis and Sequelae** - 5-year outcomes: \~70% complete recovery - Mortality: 1.4-2.9% - Chronic sequelae: renal dysfunction (8-50%), neurological (5-25%), cardiac (5%)
-
-![](images/slides-019.jpg){width="350"}
-
-::: notes
-HUS represents the most serious complication of STEC infection. The pathophysiology involves Shiga toxin-mediated endothelial injury, leading to platelet activation, fibrin deposition, and mechanical hemolysis (schistocytes on blood smear). Children under 5 have higher risk for HUS. While most survive, long-term follow-up studies show significant rates of chronic kidney disease, hypertension, and neurologic sequelae in survivors. This emphasizes the importance of early recognition and avoiding therapies that increase risk of progression to HUS.
+::: aside
+STEC infections are notably important because of the potential for life-threatening complications, particularly **hemolytic uremic syndrome**. While the initial presentation is typically bloody diarrhea, the systemic complications distinguish this from other bacterial diarrheal pathogens. The Shiga toxins (Stx1 and Stx2) are AB toxins that inhibit protein synthesis in endothelial cells, leading to thrombotic microangiopathy. O157:H7 is serotypically identifiable but other STEC strains (O103, O111, O26, O145) require molecular detection. **Understanding STEC is critical because antimicrobial therapy choice directly impacts risk of complications.**
 :::
 
-## HUS Management
+## Hemolytic Uremic Syndrome (HUS) {.smaller}
 
-**Critical Principle: Avoid Antibiotics** - Antibiotic use associated with 25% increase in HUS risk - Proposed mechanism: bacterial lysis releases Shiga toxin - Even fluoroquinolones and azithromycin increase risk - Avoid antimotility agents
+<br>
 
-::: callout-warning
-Do NOT treat STEC/EHEC diarrhea with antibiotics. Supportive care only.
+::::: columns
+::: {.column width="50%"}
+**STEC-Associated HUS**
+
+-   Occurs in approximately 5-15% of STEC infections
+
+-   Often follows 3-5 days of hemorrhagic diarrhea
+
+-   Triad**:** microangiopathic hemolytic anemia (schistocytes on blood smear), thrombocytopenia, acute kidney injury
+
+**Prognosis and Sequelae**
+
+-   5-year outcomes: \~70% complete recovery Mortality: 1.4-2.9%
+
+-   Chronic sequelae: renal dysfunction (8-50%), neurological (5-25%), cardiac (5%)
 :::
 
-**HUS Management** - Renal replacement therapy: essential in \~50% of cases - Blood product support: transfusions for anemia, platelets carefully - Plasma exchange: controversial but may help neurologic complications - ICU-level supportive care often required
+::: {.column width="50%"}
+![](images/clipboard-3152135213.jpeg)
+:::
+:::::
 
-::: notes
-The association between antibiotics and HUS progression is one of the most clinically important "don'ts" in infectious diseases. Multiple studies have demonstrated this increased risk. The mechanism likely involves stimulating toxin release during bacterial lysis. This creates a clinical dilemma: the patient has severe bloody diarrhea suspicious for bacterial infection, yet antibiotics may worsen outcomes. This is why STEC identification and careful antibiotic stewardship matters. HUS management is primarily supportive, with dialysis for renal failure and careful fluid and electrolyte management. Plasmapheresis lacks robust evidence but is sometimes used for neurologic manifestations.
+::: aside
+The pathophysiology involves Shiga toxin-mediated endothelial injury, leading to platelet activation, fibrin deposition, and mechanical hemolysis (schistocytes on blood smear). Children under 5 have higher risk for HUS.
+:::
+
+## HUS management
+
+<br>
+
+**Critical Principle: Avoid Antibiotics** !!!
+
+-   Antibiotic use associated with 25% increase in HUS risk
+
+-   Proposed mechanism: bacterial lysis releases Shiga toxin
+
+-   Even fluoroquinolones and azithromycin increase risk
+
+-   Avoid antimotility agents
+
+**HUS Management**
+
+Renal replacement therapy: essential in \~50% of cases
+
+Blood product support: transfusions for anemia, platelets carefully
+
+Plasma exchange: controversial but may help neurologic complications
+
+ICU-level supportive care often required
+
+::: aside
+The association between antibiotics and HUS progression is one of the most clinically important "don'ts" in infectious diseases. Multiple studies have demonstrated this increased risk. The mechanism likely involves stimulating toxin release during bacterial lysis. This creates a clinical dilemma: the patient has severe bloody diarrhea suspicious for bacterial infection, yet antibiotics may worsen outcomes. Hence, STEC identification is critical!
 :::
 
 ## EHEC Detection Methods
 
-**Diagnostic Approaches** - Sorbitol MacConkey agar: STEC O157:H7 appears non-sorbitol fermenting (colorless) - Chromogenic agar: substrate produces color with specific enzymes - EIA for Shiga toxins: rapid detection from stool - PCR for Stx genes: confirmatory molecular testing
+::::: columns
+::: {.column width="50%"}
+**Diagnostic Approaches**
 
-![](images/slides-021.jpg){width="350"}
+-   Sorbitol MacConkey agar: STEC O157:H7 appears non-sorbitol fermenting (colorless)
 
-::: notes
-Laboratory detection of STEC requires specific methodology. Routine culture on standard media will miss many STEC strains. Sorbitol MacConkey agar is the classic selective medium for O157:H7 detection; the characteristic non-sorbitol fermentation creates a visible phenotype. Chromogenic agar media have improved sensitivity and specificity. Direct toxin detection by EIA is rapid and available at many centers. PCR-based testing for Stx genes is increasingly standard and can detect all STEC strains regardless of serotype. In a patient with bloody diarrhea, suspicion for STEC should prompt specific ordering—asking the lab to use selective media for STEC isolation.
+-   Chromogenic agar: substrate produces color with specific enzymes
+
+-   EIA for Shiga toxins: rapid detection from stool
+
+-   PCR for Stx genes: confirmatory molecular testing
+:::
+
+::: {.column width="50%"}
+![Chromogenic agar: STEC strains grow as mauve colonies, while other bacteria grow as blue, colorless, or are inhibited](images/clipboard-4072087931.jpeg){fig-align="center" width="500"}
+:::
+:::::
+
+::: aside
+Routine culture on standard media will miss many STEC strains. Sorbitol MacConkey agar is the classic selective medium for O157:H7 detection; the characteristic non-sorbitol fermentation creates a visible phenotype. Chromogenic agar media have improved sensitivity and specificity. Direct toxin detection by EIA is rapid and available at many centers. PCR-based testing for Stx genes is increasingly standard and can detect all STEC strains regardless of serotype. **In a patient with bloody diarrhea, suspicion for STEC should prompt specific ordering—asking the lab to use selective media for STEC isolation.**
 :::
 
 ## EHEC Outbreaks — Germany 2011
 
-**2011 Outbreak Details** - Strain: O104:H4 (unusual non-motile strain) [@Rasko2011] - Total infected: 12,600 cases - HUS cases: 4,321 - Deaths: 50 (42 from HUS, 8 from sepsis)
-
-**Unique Features** - Prophage carrying Stx gene plus additional virulence genes - Multidrug resistance including fluoroquinolone resistance - Foodborne outbreak traced to sprouts from Egypt - Deadliest STEC outbreak in modern history
-
-![](images/slides-024.jpg){width="350"}
-
-::: notes
-The 2011 Germany outbreak illustrated the potential severity of STEC infections and the challenges in outbreak investigation. The O104:H4 strain was unusual—it had a sorbitol-fermenting phenotype (unlike O157:H7) combined with Shiga toxin production. The antifungal sprout contamination was traced internationally, highlighting globalization of food supply chains. The unusually high HUS rate (34% of cases) and mortality reflected the particular virulence of this strain and possibly the high proportion of adult cases (who have worse outcomes than children). This outbreak led to increased surveillance for STEC and highlighted the need for rapid molecular diagnostics during outbreaks.
-:::
-
-## Campylobacter Overview
-
-**Epidemiology** - Most common bacterial cause of gastroenteritis globally [@Kaakoush2015] - Primarily Campylobacter jejuni (90% of infections) - Also: C. coli, C. lari, and other species
-
-![](images/slides-028.jpg){width="350"}
-
-**Characteristics** - Gram-negative, microaerophilic curved rod - Minimal growth on routine culture media - Fastidious organism; requires special handling
-
-::: notes
-Campylobacter is arguably the leading bacterial cause of diarrhea in developed countries, though because it's less reported than Salmonella and Shigella, its true burden is underappreciated. It's fastidious and easily missed on routine stool culture, requiring selective media and microaerophilic conditions. The curved morphology is characteristic but requires careful observation on microscopy or culture. Campylobacter differs from other enteric pathogens in several ways: it colonizes poultry without causing disease, it has seasonal variation, and it's associated with some unique post-infectious syndromes like Guillain-Barré syndrome.
-:::
-
-## Campylobacter Transmission
-
-**Animal Reservoir** - Common commensal in poultry (colonizes GI tract) - Also found in cattle, pigs, dogs, cats - Undercooked meat: primary source - Unpasteurized milk: significant source
-
-**Environmental Survival** - Survives in freshwater at temperatures \<15°C - Sensitive to heat, desiccation, oxygen at room temperature - Short survival in food chain; requires careful handling
-
-**Direct Transmission** - Person-to-person transmission: uncommon but documented - Fecal-oral route primarily - Animal contact risk factor
-
-::: notes
-Understanding Campylobacter's ecology helps with prevention counseling. The organism's presence in poultry is ubiquitous; estimates suggest 50-90% of retail chicken is colonized. Cooking to safe internal temperatures kills the organism. Unpasteurized milk can be contaminated by fecal shedding from infected animals. The organism's sensitivity to environmental stresses (heat, oxygen) contrasts with some other pathogens like Salmonella that are more robust. Direct animal contact, particularly with puppies or chicks, is a documented risk factor. For travelers, undercooked local poultry dishes are a common source.
-:::
-
-## Campylobacter Clinical Features
-
-**Incubation Period** - Mean: 3 days (range 1-7 days) - Longer than many bacterial pathogens
-
-**Typical Presentation** - Affects both small and large bowel → mixed diarrhea pattern - Watery AND bloody diarrhea common - Febrile prodrome in \~1/3 of cases (fever, malaise, myalgias) - Abdominal pain often prominent and severe
-
-**Systemic Complications** - Bacteremia in 0.1-1% (higher in immunocompromised) - Septic arthritis, osteomyelitis, meningitis (rare) - Post-infectious syndromes (see next slide)
-
-::: notes
-Campylobacter's clinical presentation is diverse. The fever and severe abdominal pain can sometimes lead to concern for appendicitis or other surgical abdomen; one must maintain a high index of suspicion and send stool cultures in appropriate patients. The combination of watery and bloody stool reflects both secretory toxin production and mucosal invasion. The relatively long incubation period compared to norovirus helps differentiate it in outbreak investigations. Most infections are community-acquired from dietary exposure rather than person-to-person spread.
-:::
-
-## Campylobacter Complications
-
-**Post-Infectious Complications**
+<br>
 
 ::::: columns
 ::: {.column width="50%"}
-**Guillain-Barré Syndrome (GBS)** - Estimated 3-40% of GBS cases linked to prior Campylobacter [@Nachamkin1998] - Mechanism: molecular mimicry - Antibodies cross-react with GM1 ganglioside - Ascending paralysis 1-3 weeks after diarrhea
+**2011 Outbreak Details**
+
+-   Strain: O104:H4 (unusual non-motile strain) [@Rasko2011]
+
+-   Total infected: 12,600 cases
+
+-   HUS cases: 4,321
+
+-   Deaths: 50 (42 from HUS, 8 from sepsis)
+
+**Unique Features**
+
+-   Prophage carrying Stx gene plus additional virulence genes
+
+-   Multidrug resistance including fluoroquinolone resistance
+
+-   Foodborne outbreak traced to sprouts from Egypt
+
+-   Deadliest STEC outbreak in modern history
 :::
 
 ::: {.column width="50%"}
-**Reactive Arthritis** - Occurs in 2.6% of infections - HLA-B27 association - Arthralgia/arthritis weeks after diarrhea - Can be prolonged and disabling
+![](images/clipboard-1654231105.jpeg)
 :::
 :::::
 
-::: notes
-The association between Campylobacter and Guillain-Barré syndrome is important clinically. GBS is a post-infectious autoimmune complication that develops after the acute diarrhea has resolved, typically 1-3 weeks later. The molecular mimicry mechanism reflects LPS epitopes on certain Campylobacter strains that resemble human nerve tissue. This complication emphasizes that some patients with Campylobacter infection experience significant morbidity beyond the acute gastroenteritis. Reactive arthritis is another post-infectious syndrome; like GBS, it develops after the acute illness and requires different management focused on the joint inflammation rather than the infectious diarrhea.
+## HUS in Italy?
+
+![](images/clipboard-158907065.jpeg){fig-align="center"}
+
+## Campylobacter infections
+
+<br>
+
+![](images/campylobacter2.png){fig-align="center" width="1200"}
+
+## Campylobacter overview
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+**Epidemiology** - Most common bacterial cause of gastroenteritis globally [@Kaakoush2015]
+
+-   Primarily *Campylobacter jejuni* (90% of infections) - Also: *C. coli*, *C. lari*, and other species
+
+**Characteristics**
+
+-   Gram-negative, microaerophilic curved rod
+
+-   Minimal growth on routine culture media
+
+-   Fastidious organism; requires special handling
 :::
 
-## Campylobacter Diagnosis
+::: {.column width="50%"}
+![](images/campylobacter.png){fig-align="center" width="400"}
+:::
+:::::
 
-**Laboratory Detection** - Stool culture on selective media (Campy agar, CCDA agar) - Requires microaerophilic conditions - Gram-negative, S-shaped or curved rods on microscopy - Culture takes 48-72 hours minimum
+::: aside
+Campylobacter is arguably the leading bacterial cause of diarrhea in developed countries, though because it's less reported than Salmonella and Shigella, its true burden is underappreciated. It's fastidious and easily missed on routine stool culture, requiring selective media and microaerophilic conditions. The curved morphology is characteristic but requires careful observation on microscopy or culture. Campylobacter differs from other enteric pathogens in several ways: it colonizes poultry without causing disease, it has seasonal variation, and it's associated with some unique post-infectious syndromes like Guillain-Barré syndrome.
+:::
 
-**Molecular Methods** - PCR increasingly available at reference labs - Rapid diagnosis possible - Higher sensitivity than culture
+## Campylobacter transmission
 
-![](images/slides-031.jpg){width="350"}
+<br>
+
+::::: columns
+::: {.column width="70%"}
+**Animal Reservoir**
+
+-   Common commensal in poultry (colonizes GI tract: 50-90% in GI tract)
+
+    -   Also found in cattle, pigs, dogs, cats
+
+-   Undercooked meat: primary source - unpasteurized milk: significant source
+
+**Environmental Survival**
+
+-   Survives in freshwater at temperatures \<15°C
+
+-   Sensitive to heat, desiccation, oxygen at room temperature - short survival in food chain; requires careful handling
+
+**Direct Transmission**
+
+-   Person-to-person transmission: uncommon but documented
+
+-   Fecal-oral route primarily - Animal contact risk factor
+:::
+
+::: {.column width="30%"}
+![](images/clipboard-656841111.png){width="300"}
+:::
+:::::
+
+## Campylobacter clinical features {.smaller}
+
+<br>
+
+**Incubation Period**
+
+-   Mean: 3 days (range 1-7 days) - Longer than many bacterial pathogens
+
+**Typical presentation**
+
+-   Affects both small and large bowel → mixed diarrhea pattern
+
+-   Watery AND bloody diarrhea common
+
+-   Febrile prodrome in \~1/3 of cases (fever, malaise, myalgias)
+
+-   Abdominal pain often prominent and severe
+
+**Systemic complications**
+
+-   Bacteremia in 0.1-1% (higher in immunocompromised)
+
+-   Septic arthritis, osteomyelitis, meningitis (rare)
+
+-   Post-infectious syndromes (see next slide)
+
+::: aside
+Campylobacter's clinical presentation is diverse. The fever and severe abdominal pain can sometimes lead to concern for appendicitis or other surgical abdomen; one must maintain a high index of suspicion and send stool cultures in appropriate patients. The combination of watery and bloody stool reflects both secretory toxin production and mucosal invasion. The relatively long incubation period compared to norovirus helps differentiate it in outbreak investigations. Most infections are community-acquired from dietary exposure rather than person-to-person spread.
+:::
+
+## Campylobacter complications
+
+<br>
+
+<center>**Post-infectious complications**</center>
+
+::::: columns
+::: {.column width="50%"}
+**Guillain-Barré Syndrome (GBS)**
+
+-   Estimated 3-40% of GBS cases linked to prior Campylobacter [@Nachamkin1998]
+
+-   Mechanism: molecular mimicry
+
+-   Antibodies cross-react with GM1 ganglioside
+
+-   Ascending paralysis 1-3 weeks after diarrhea
+:::
+
+::: {.column width="50%"}
+**Reactive Arthritis**
+
+-   Occurs in 2.6% of infections
+
+-   HLA-B27 association
+
+-   Arthralgia/arthritis weeks after diarrhea
+
+-   Can be prolonged and disabling
+:::
+:::::
+
+::: aside
+GBS is a post-infectious autoimmune complication that develops after the acute diarrhea has resolved, typically 1-3 weeks later. The molecular mimicry mechanism reflects LPS epitopes on certain *Campylobacter* strains that resemble human nerve tissue. This complication emphasizes that some patients with Campylobacter infection experience significant morbidity beyond the acute gastroenteritis. Reactive arthritis is another post-infectious syndrome; like GBS, it develops after the acute illness and requires different management focused on the joint inflammation rather than the infectious diarrhea.
+:::
+
+## Campylobacter diagnosis
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+**Laboratory Detection**
+
+-   Stool culture on selective media (Campy agar, CCDA agar) -
+
+-   Requires microaerophilic conditions
+
+-   Gram-negative, S-shaped or curved rods on microscopy
+
+-   Culture takes 48-72 hours minimum
+
+**Molecular Methods**
+
+-   PCR increasingly available at reference labs
+
+-   Rapid diagnosis possible
+
+-   Higher sensitivity than culture
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-4290047091.jpeg){width="600"}
+:::
+:::::
 
 ::: notes
 Campylobacter detection requires communication with the laboratory about your clinical suspicion. If you simply request "stool culture," many labs use routine media where Campylobacter won't grow well. Specifically requesting Campylobacter culture ensures appropriate media and conditions are used. The organism's fastidious nature explains why it was historically underdiagnosed. Modern PCR-based methods are increasingly available and offer rapid diagnosis with better sensitivity than culture. In outbreak investigations, PCR and sequencing can provide strain typing information important for source investigation.
 :::
 
-## Salmonella Overview
+## Salmonella infections
 
-**Epidemiology** - Motile gram-negative Enterobacterales - Non-typhoidal: common cause of gastroenteritis [@Majowicz2010] - Typhoidal (S. typhi, S. paratyphi): invasive systemic illness [@Crump2015]
+![](images/slamonella.png){fig-align="center" width="900"}
 
-**Diversity** - \>1,400 serotypes identified - Two major clinical syndromes: gastroenteritis vs. enteric fever - Highest incidence globally: South Asia
+## Salmonella overview
 
-::: notes
+<br>
+
+**Epidemiology**
+
+-   Motile gram-negative Enterobacterales
+
+-   Non-typhoidal: common cause of gastroenteritis [@Majowicz2010]
+
+-   Typhoidal (*S. typhi, S. paratyphi*): invasive systemic illness [@Crump2015]
+
+**Diversity**
+
+-   \>1,400 serotypes identified
+
+-   Two major clinical syndromes: gastroenteritis vs. enteric fever
+
+-   Highest incidence globally: South Asia
+
+::: aside
 Salmonella is diverse in both its serotypes and clinical presentations. Understanding whether you're dealing with non-typhoidal gastroenteritis or enteric fever (typhoid) is crucial for prognosis and treatment. Non-typhoidal Salmonella causes self-limited gastroenteritis in most immunocompetent hosts. Typhoidal Salmonella causes invasive systemic infection with distinctive clinical features. The epidemiology differs: non-typhoidal disease is common in developed countries from food contamination, while typhoidal disease is primarily seen in travelers from endemic areas or in endemic regions with poor water sanitation.
 :::
 
-## Non-typhoidal Salmonella Epidemiology
+## Non-typhoidal *Salmonella* epidemiology
 
-**Serotype Distribution** - S. Enteritidis: most common globally - S. Typhimurium: second most common - Both associated with poultry and poultry products - Transovarial transmission in hens explains egg contamination
+<br>
 
-**Geographic & Seasonal Patterns** - Incidence highest in South and Southeast Asia - Seasonal peaks: summer and autumn in temperate climates - Year-round in tropical regions
+**Serotype distribution** - *S. enteritidis*: most common globally
 
-::: notes
-The predominance of S. Enteritidis and S. Typhimurium reflects the importance of poultry in global food supply. The discovery of transovarial transmission (passage of bacteria through the ovaries to contaminate eggs) was important because it explained why even properly handled eggs could transmit disease. The seasonal pattern in temperate climates likely relates to food handling practices and temperature effects on bacterial growth. In developing countries with endemic typhoid, non-typhoidal Salmonella remains important but is often overshadowed epidemiologically by the burden of typhoid fever.
+-   *S. typhimurium*: second most common
+
+-   Both associated with poultry and poultry products
+
+-   Transovarial transmission in hens explains egg contamination
+
+**Geographic & seasonal patterns**
+
+-   Incidence highest in South and Southeast Asia
+
+-   Seasonal peaks: summer and autumn in temperate climates
+
+-   Year-round in tropical regions
+
+::: aside
+The predominance of *S. enteritidis* and *S. typhimurium* reflects the importance of poultry in global food supply. The discovery of transovarial transmission (passage of bacteria through the ovaries to contaminate eggs) was important **because it explained why even properly handled eggs could transmit disease.** The seasonal pattern in temperate climates likely relates to food handling practices and temperature effects on bacterial growth. In developing countries with endemic typhoid, non-typhoidal Salmonella remains important but is often overshadowed epidemiologically by the burden of typhoid fever.
 :::
 
-## Non-typhoidal Salmonella Transmission
+## Non-typhoidal *Salmonella* transmission
 
-**Primary Transmission Routes** - Contaminated poultry and poultry products (eggs, meat) - Cross-contamination in food preparation - Unpasteurized dairy products
+![](images/turtle.png){fig-align="center" width="1200"}
 
-**Animal Contact Transmission** - Reptiles (turtles, iguanas, snakes): significant source in households - Direct contact with infected animals - Fomite transmission from contaminated surfaces
+::::: aside
+<div>
 
-**Person-to-Person Transmission** - Fecal-oral route - More common in young children \<5 years - Healthcare-associated outbreaks possible
+<div>
 
-![](images/slides-032.jpg){width="350"}
-
-::: notes
 Reptile-associated Salmonella is an underappreciated source in developed countries, particularly among children who have pet turtles or iguanas. Public health campaigns have promoted awareness, but reptile ownership continues to result in Salmonella infections. Understanding transmission routes helps guide prevention counseling with patients. The ability to transmit via fomites means that handwashing and food handling hygiene are critical. In immunocompromised patients and very young children, person-to-person transmission risk is higher, explaining why healthcare-associated outbreaks can occur.
+
+</div>
+
+</div>
+:::::
+
+## Non-typhoidal Salmonella clinical features {.smaller}
+
+<br>
+
+::::: columns
+::: {.column width="50%"}
+**Incubation Period** : 8-72 hours (typically 12-36 hours)
+
+**Typical Presentation** :
+
+-   Diarrhea with abdominal pain and cramping
+
+-   Fever in \~50% (often high—\>39°C)
+
+-   Nausea and vomiting common
+
+-   Systemic symptoms: malaise, headache
+
+**Risk Factors for Severe Disease**
+
+-   Extremes of age (\<5 or \>65 years)
+-   Achlorhydria or antacid use, Inflammatory bowel disease
+-   Sickle cell disease, immunosuppression
+
+**Prognosis**
+
+-   Self-limited in immunocompetent hosts, bacteremia in \<5% (higher with underlying conditions)
+
+-   Duration typically 4-7 days
 :::
 
-## Non-typhoidal Salmonella Clinical Features
+::: {.column width="50%"}
+![](images/turtle.png){width="600"}
+:::
+:::::
 
-**Incubation Period** - 8-72 hours (typically 12-36 hours)
-
-**Typical Presentation** - Diarrhea with abdominal pain and cramping - Fever in \~50% (often high—\>39°C) - Nausea and vomiting common - Systemic symptoms: malaise, headache
-
-**Risk Factors for Severe Disease** - Extremes of age (\<5 or \>65 years) - Achlorhydria or antacid use - Inflammatory bowel disease - Sickle cell disease - Immunosuppression
-
-**Prognosis** - Self-limited in immunocompetent hosts - Bacteremia in \<5% (higher with underlying conditions) - Duration typically 4-7 days
-
-::: notes
-Most non-typhoidal Salmonella gastroenteritis is indistinguishable from other bacterial causes of diarrhea. The fever, abdominal pain, and watery diarrhea constitute a typical presentation. Risk factors for invasive disease and bacteremia guide clinical decision-making about antimicrobial therapy. Achlorhydria increases risk because stomach acid normally kills some bacteria; patients on acid suppression therapy are at increased risk. Inflammatory bowel disease predisposes to invasive infection. Sickle cell patients have particularly high risk for non-typhoidal Salmonella bacteremia and extraintestinal infection like osteomyelitis. These risk factors influence management decisions.
+::: aside
+Most non-typhoidal Salmonella gastroenteritis is indistinguishable from other bacterial causes of diarrhea. The fever, abdominal pain, and watery diarrhea constitute a typical presentation. Risk factors for invasive disease and bacteremia guide clinical decision-making about antimicrobial therapy. Achlorhydria increases risk because stomach acid normally kills some bacteria; patients on acid suppression therapy are at increased risk. Inflammatory bowel disease predisposes to invasive infection. Sickle cell patients have particularly high risk for non-typhoidal Salmonella bacteremia and extraintestinal infection like osteomyelitis.
 :::
 
 ## Non-typhoidal Salmonella — Asymptomatic Carriage
 
-**Chronic Carriers** - Definition: shedding bacteria \>1 year after infection - Prevalence: 0.6-2% of infected individuals - More common with S. Enteritidis than other serotypes - Risk factors: female sex, older age, biliary disease
+<br>
 
-**Clinical Implications** - Potential source for transmission to others - Important for food handlers and healthcare workers - Prolonged antibiotics (e.g., fluoroquinolone) may clear carriage - Cholecystectomy eradicates infection in some biliary carriers
+**Chronic Carriers**
 
-::: notes
-Asymptomatic carriage represents an important public health consideration. While most infected people shed for days to weeks, a small proportion become chronic carriers. For food handlers, carriage poses ongoing transmission risk. The association with biliary disease suggests that bacteria persist in the biliary system. Treatment of chronic carriers is controversial—most guidelines don't recommend treatment unless the person is a food handler or healthcare worker with direct patient contact. When treatment is attempted, prolonged fluoroquinolone courses may be used, though success rates vary.
+-   Shedding bacteria \>1 year after infection
+
+-   Prevalence: 0.6-2% of infected individuals
+
+-   More common with *S. enteritidis* than other serotypes
+
+-   Risk factors: female sex, older age, biliary disease
+
+**Clinical Implications**
+
+-   Potential source for transmission to others - Important for food handlers and healthcare workers
+
+-   Prolonged antibiotics (e.g., fluoroquinolone) may clear carriage
+
+-   Cholecystectomy eradicates infection in some biliary carriers
+
+::: aside
+Asymptomatic carriage represents an important public health consideration. While most infected people shed for days to weeks, a small proportion become chronic carriers. For food handlers, carriage poses ongoing transmission risk. The association with biliary disease suggests that bacteria persist in the biliary system. Treatment of chronic carriers is controversial—most guidelines don't recommend treatment unless the person is a food handler or healthcare worker with direct patient contact.
 :::
 
-## Enteric/Typhoid Fever
+## Enteric/typhoid Fever
 
-**Epidemiology** - Caused by Salmonella typhi (endemic in South Asia, Africa) - Also S. paratyphi (Asia-Pacific region) - Humans are the only reservoir - \~21 million cases and 200,000 deaths annually globally - Mortality 1-4% with treatment; 20-30% without
+<br>
 
-**Risk Factors for Acquisition** - Travel to endemic areas (South Asia especially) - Poor sanitation exposure - Close contact with chronic carriers
+**Epidemiology** : Caused by *Salmonella typhi* (endemic in South Asia, Africa)
 
-::: notes
+-   Also *S. paratyphi* (Asia-Pacific region)
+
+-   Humans are the only reservoir - \~21 million cases and 200,000 deaths annually globally
+
+-   Mortality 1-4% with treatment; 20-30% without
+
+**Risk Factors for Acquisition** - Travel to endemic areas (South Asia especially)
+
+-   Poor sanitation exposure
+
+-   Close contact with chronic carriers
+
+::: aside
 Typhoid fever is an invasive systemic infection distinct from non-typhoidal gastroenteritis. It's primarily a disease of developing countries with inadequate sanitation. For travelers to endemic areas, typhoid represents a significant health risk. The clinical syndrome develops gradually over days to weeks, distinct from the acute onset of non-typhoidal Salmonella. Understanding the stepwise progression of symptoms helps in early diagnosis and treatment.
 :::
 
-## Typhoid Fever — Clinical Progression
+## Typhoid fever — Clinical progression {.smaller}
 
-**Week 1: Septicemia Phase** - Gradual fever onset (prodrome over days) - High fever develops, continuing to rise - Bacteremia present - Relative bradycardia (unusual for degree of fever) - Malaise, headache, myalgias
+::::: columns
+::: {.column width="50%"}
+**Week 1: Septicemia Phase**
 
-**Week 2-3: Systemic Phase** - Sustained high fever (often continuous pattern—"staircase fever") - Rose spots rash (evanescent, 2-3mm rose-colored papules on trunk) - Hepatosplenomegaly - Abdominal pain and distension - Diarrhea or constipation
+-   Gradual fever onset (prodrome over days)
+-   High fever develops, continuing to rise
+-   Bacteremia present
+-   Relative bradycardia (unusual for degree of fever)
+-   Malaise, headache, myalgias
 
-**Week 3-4: Crisis Phase** - Risk of intestinal perforation (Peyer's patches ulcerate) - Septic shock possible - Delirium and altered mental status ("typhoid state") - Myocarditis, pneumonia
+**Week 2-3: Systemic Phase**
 
-![](images/slides-041.jpg){width="300"}
+-   Sustained high fever (often continuous pattern—"staircase fever")
+-   Rose spots rash (evanescent, 2-3mm rose-colored papules on trunk)
+-   Hepatosplenomegaly with abdominal pain and distension, diarrhea or constipation
 
-::: notes
-The clinical progression of typhoid is relatively stereotyped, though individual variation occurs. The gradual fever onset over several days distinguishes it from acute gastroenteritis. The relative bradycardia—a slower heart rate than expected for the degree of fever—is a classic but often-missed finding. Rose spots are pathognomonic but occur in only 15-30% of cases, so their absence doesn't exclude diagnosis. The complications of perforation and septic shock typically occur in the third week if untreated. Understanding this timeline helps guide diagnostic timing and empiric therapy decisions.
+**Week 3-4: Crisis Phase**
+
+-   Risk of intestinal perforation (Peyer's patches ulcerate)
+
+-   Septic shock possible
+
+-   Delirium and altered mental status ("typhoid state")
+
+-   Myocarditis, pneumonia
 :::
 
-## Typhoid Fever — Treatment
-
-**Antimicrobial Challenges** - Fluoroquinolone resistance increasing in South Asia - Multidrug-resistant strains (TMP/SMX, chloramphenicol, ampicillin) common - Extensively drug-resistant (XDR) strains emerging
-
-**Treatment Options** - **First-line (susceptible)**: Fluoroquinolone (ciprofloxacin) - **Alternatives**: Third-generation cephalosporins (ceftriaxone, cefixime) - **Resistant strains**: Azithromycin (5-day course) for nalidixic acid-resistant strains - **Duration**: 7-14 days depending on severity and response
-
-**Prognosis with Treatment** - Defervescence typically 4-6 days after starting therapy - Relapse possible 1-2 weeks after apparent cure - Follow-up cultures recommended to document clearance
+::: {.column width="50%"}
+![](images/clipboard-695628345.jpeg){width="800"}
+:::
+:::::
 
 ::: notes
-Typhoid treatment has become more complex due to emerging resistance patterns. Recent surveys from the Indian subcontinent show 40-80% resistance to fluoroquinolones in some regions. This means empiric therapy choices must consider local epidemiology. Fluoroquinolones remain reasonable empirically in many regions but may fail in endemic areas of resistance. The emergence of XDR typhoid in Pakistan in recent years is concerning and may require cephalosporins as first-line. The delayed response to therapy (4-6 days for fever to resolve) requires clinical judgment about treatment failure versus expected slow response. Relapse in 5-10% of cases means follow-up is important.
+The clinical progression of typhoid is relatively stereotyped, though individual variation occurs. The gradual fever onset over several days distinguishes it from acute gastroenteritis. The relative bradycardia—a slower heart rate than expected for the degree of fever—is a classic but often-missed finding. Rose spots are pathognomonic but occur in only 15-30% of cases.The complications of perforation and septic shock typically occur in the third week if untreated.
 :::
 
-## Shigella Overview
+## Typhoid fever — Treatment
 
-**Microbiology** - Non-motile gram-negative Enterobacterales - Four serogroups: dysenteriae, flexneri, boydii, sonnei [@Kotloff2018] - Humans are the only reservoir (crucial difference from Salmonella)
+<br>
 
-**Clinical Significance** - Third most common bacterial cause of diarrhea (after Salmonella and Campylobacter) - Associated with severe dysentery and complications - Rapid person-to-person spread in closed environments
+-   **Antimicrobial challenges**
 
-::: notes
-Shigella's restriction to humans as reservoir has important epidemiologic implications. Unlike Salmonella with its animal reservoir or Campylobacter with widespread animal colonization, Shigella is person-to-person spread. This makes it particularly problematic in crowded conditions, daycare, and institutions. The serogroups vary geographically; S. flexneri and S. sonnei are most common in developed countries, while S. dysenteriae (which produces Shiga toxin) is important in developing regions.
+    -   Fluoroquinolone resistance increasing in South Asia
+
+    -   Multidrug-resistant strains (TMP/SMX, chloramphenicol, ampicillin) common
+
+    -   Extensively drug-resistant (XDR) strains emerging
+
+-   **Treatment options** - **First-line (susceptible)**: Fluoroquinolone (ciprofloxacin)
+
+    -   **Alternatives**: Third-generation cephalosporins (ceftriaxone, cefixime)
+
+    -   **Resistant strains**: Azithromycin (5-day course) for nalidixic acid-resistant strains
+
+    -   **Duration**: 7-14 days depending on severity and response
+
+-   **Prognosis with treatment** - Defervescence typically 4-6 days after starting therapy
+
+    -   Relapse possible 1-2 weeks after apparent cure - Follow-up cultures recommended to document clearance
+
+::: aside
+The emergence of XDR typhoid in Pakistan in recent years is concerning and may require cephalosporins as first-line. The delayed response to therapy (4-6 days for fever to resolve) requires clinical judgment about treatment failure versus expected slow response. Relapse in 5-10% of cases means follow-up is important.
 :::
 
-## Shigella Pathophysiology and Complications
+## Shigella overview
 
-**Virulence Mechanisms** - Invasion of colonic epithelium (ipaB, ipaC genes) - Intracellular multiplication - Abscess formation and mucosal ulceration - Enterotoxin production: ShET1, ShET2
+<br>
 
-**Complications** - Shiga toxin produced by S. dysenteriae → HUS possible - HUS occurs in \~8% of children with S. dysenteriae infection - Toxic megacolon (rare) - Protein-calorie malnutrition from persistent diarrhea - Seizures, febrile delirium (especially in children)
+**Microbiology**
 
-![](images/slides-043.jpg){width="350"}
+-   Non-motile gram-negative Enterobacterales
 
-::: notes
-Shigella's invasive mechanism explains the dysentery (bloody diarrhea) seen in infection. The bacteria invade through M cells in Peyer's patches, then spread laterally in the epithelium, causing abscesses and ulcerations visible on colonoscopy. The production of enterotoxins contributes to secretory diarrhea. S. dysenteriae type 1 produces Shiga toxin, creating risk for HUS similar to STEC. The systemic manifestations (seizures, delirium) are more common in children with shigellosis than with other bacterial diarrheal pathogens.
+-   Four serogroups: dysenteriae, flexneri, boydii, sonnei [@Kotloff2018]
+
+-   Humans are the only reservoir (crucial difference from Salmonella)
+
+**Clinical Significance**
+
+-   Third most common bacterial cause of diarrhea (after Salmonella and Campylobacter)
+
+-   Associated with severe dysentery and complications
+
+-   Rapid person-to-person spread in closed environments
+
+::: aside
+Unlike Salmonella with its animal reservoir or Campylobacter with widespread animal colonization, Shigella is person-to-person spread. This makes it particularly problematic in crowded conditions, daycare, and institutions. The serogroups vary geographically; *S. flexneri* and *S. sonnei* are most common in developed countries, while *S. dysenteriae* (which produces Shiga toxin) is important in developing regions.
 :::
 
-## Shigella Diagnosis and Treatment
+## Shigella pathophysiology and complications
 
-**Laboratory Diagnosis** - Stool culture on selective media (HE agar, XLD agar) - Preferred: culture from mucoid/blood-stained stool - Non-motile gram-negative colonies - PCR for Stx gene (S. dysenteriae)
+<br>
 
-![](images/slides-044.jpg){width="350"}
+::::: columns
+::: {.column width="50%"}
+**Virulence Mechanisms**
 
-**Resistance Patterns** - Asia/Africa: 20-30% resistance to third-generation cephalosporins - TMP/SMX resistance: 65-85% in some regions - Fluoroquinolone resistance increasing (esp. S. sonnei in Asia)
+-   Invasion of colonic epithelium (ipaB, ipaC genes)
 
-**Treatment** - First-line: Fluoroquinolone or ceftriaxone (when fluoroquinolone susceptibility uncertain) - Alternative: Azithromycin - Duration: 5-7 days
+-   Intracellular multiplication - abscess formation and mucosal ulceration
 
-::: notes
+-   Enterotoxin production: ShET1, ShET2
+
+**Complications**
+
+-   Shiga toxin produced by S. dysenteriae → HUS possible - HUS occurs in \~8% of children with S. dysenteriae infection
+
+-   Toxic megacolon (rare)
+
+-   Protein-calorie malnutrition from persistent diarrhea
+
+-   Seizures, febrile delirium (especially in children)
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-2837930237.jpeg){width="600"}
+:::
+:::::
+
+## Shigella diagnosis and treatment {.smaller}
+
+<br>
+
+**Laboratory Diagnosis**
+
+-   Stool culture on selective media (HE agar, XLD agar)
+
+-   Preferred: culture from mucoid/blood-stained stool
+
+-   Non-motile gram-negative colonies - PCR for Stx gene (*S. dysenteriae*)
+
+**Resistance Patterns**
+
+-   Asia/Africa: 20-30% resistance to third-generation cephalosporins
+
+-   TMP/SMX resistance: 65-85% in some regions
+
+-   Fluoroquinolone resistance increasing (esp. *S. sonnei* in Asia)
+
+**Treatment**
+
+-   First-line: Fluoroquinolone or ceftriaxone (when fluoroquinolone susceptibility uncertain)
+
+-   Alternative: Azithromycin
+
+-   Duration: 5-7 days
+
+::: aside
 Shigella's high rates of antimicrobial resistance necessitate knowledge of local epidemiology. In developed countries, fluoroquinolones remain effective, but in many developing countries, resistance is common. Third-generation cephalosporins maintain good coverage for most strains. Macrolides are useful alternatives. Most shigellosis is self-limited without therapy, but treatment is recommended in most circumstances because it decreases duration of diarrhea and reduces person-to-person transmission.
 :::
 
-## Shigella — When to Treat
+## Shigella — When to treat
 
-**Standard Recommendation** - Most infections resolve without antibiotics - Treatment doesn't significantly alter outcomes in mild-moderate disease
+<br>
 
-**Treat When** - Immunocompromised patients (including HIV) - Severe diarrhea or dysentery - Bacteremia or extraintestinal infection - High risk for transmission (food handlers, daycare workers)
+**Standard Recommendation**
 
-**Benefit of Treatment** - Decreases symptom duration by \~2 days - Reduces fecal shedding (may reduce transmission) - Prevents complications in vulnerable populations
+-   Most infections resolve without antibiotics
 
-::: notes
-The decision to treat shigellosis should consider both individual patient factors and public health implications. In an immunocompetent host with mild diarrhea, empiric antibiotics aren't necessary. But in daycare settings or when transmission is a concern, treatment reduces shedding and spread. The duration of fecal shedding is important clinically; untreated shigellosis may result in weeks of shedding, while treatment reduces this substantially. For immunocompromised patients, even moderate disease warrants treatment given risk of invasive infection.
+-   Treatment doesn't significantly alter outcomes in mild-moderate disease
+
+**Treat When**
+
+-   Immunocompromised patients (including HIV)
+
+-   Severe diarrhea or dysentery
+
+-   Bacteremia or extraintestinal infection
+
+-   High risk for transmission (food handlers, daycare workers)
+
+**Benefit of Treatment**
+
+-   Decreases symptom duration by \~2 days
+
+-   Reduces fecal shedding (may reduce transmission)
+
+-   Prevents complications in vulnerable populations
+
+## Yersinia {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+**Species of clinical importance:**
+
+-   *Yersinia enterocolitica - Yersinia pseudotuberculosis*
+
+**Key characteristics** - Zoonotic infections: wild and domestic animals
+
+-   Transmission: undercooked pork, contaminated water
+
+-   Can survive refrigeration (cold enrichment aids culture)
+
+**Clinical features** : Watery diarrhea or dysentery
+
+-   **Distinctive: pharyngitis in \~20% (pharyngitis-gastroenteritis pattern)**
+
+-   **Acute mesenteric lymphadenitis: can mimic appendicitis**
+
+-   Fever and abdominal pain prominent
+
+-   Can cause arthralgia (particularly HLA-B27 associated)
+
+**Lab diagnosis** - Culture on selective media (CIN agar)
+
+-   Overgrowth by normal flora; requires selective medium or cold enrichment
 :::
 
-## Yersinia
-
-**Species of Clinical Importance** - Yersinia enterocolitica - Yersinia pseudotuberculosis
-
-**Key Characteristics** - Zoonotic infections: wild and domestic animals - Transmission: undercooked pork, contaminated water - Can survive refrigeration (cold enrichment aids culture)
-
-**Clinical Features** - Watery diarrhea or dysentery - Distinctive: pharyngitis in \~20% (pharyngitis-gastroenteritis pattern) - Acute mesenteric lymphadenitis: can mimic appendicitis - Fever and abdominal pain prominent - Can cause arthralgia (particularly HLA-B27 associated)
-
-**Lab Diagnosis** - Culture on selective media (CIN agar) - Overgrowth by normal flora; requires selective medium or cold enrichment
-
-![](images/slides-045.jpg){width="350"}
-
-::: notes
-Yersinia represents a less common cause of diarrhea but one with distinctive features worth remembering. The combination of pharyngitis with gastroenteritis is unusual and should raise suspicion for Yersinia. The risk of acute mesenteric lymphadenitis misdiagnosed as appendicitis is clinically important. Some patients undergo appendectomy before the true diagnosis is made. The ability to survive refrigeration makes it a potential concern with improperly stored food. Yersinia pseudotuberculosis causes similar presentations and is geographically variable.
+::: {.column width="50%"}
+![](images/clipboard-69284034.jpeg){width="600"}
 :::
+:::::
+
+::: aside
+The combination of pharyngitis with gastroenteritis is unusual and should raise suspicion for Yersinia. The risk of acute mesenteric lymphadenitis misdiagnosed as appendicitis is clinically important. Some patients undergo appendectomy before the true diagnosis is made. The ability to survive refrigeration makes it a potential concern with improperly stored food.
+:::
+
+## John Snow- Birth of medical epidemiology
+
+<br> <br>
+
+![](images/john snow.png){fig-align="center"}
 
 ## Vibrio cholerae
 
-**Epidemiology** - Endemic in South Asia (particularly Bangladesh, India) [@Sack2004] - Seventh pandemic ongoing since 1961 - Transmitted via contaminated water in areas with poor sanitation - Epidemic potential high; 3-5 million cases, 100,000-300,000 deaths annually [@Ali2015]
+<br>
 
-**Clinical Presentation** - Acute watery non-bloody diarrhea - Characteristic "rice-water stools" (clear, watery, with flecks) - Severe dehydration and shock possible - Vomiting common - Can be fulminant with progression to hypovolemic shock
+::::: columns
+::: {.column width="50%"}
+**Epidemiology**
 
-::: notes
+-   Endemic in South Asia (particularly Bangladesh, India) [@Sack2004]
+-   Seventh pandemic ongoing since 1961
+-   Transmitted via contaminated water in areas with poor sanitation
+-   Epidemic potential high; 3-5 million cases, 100,000-300,000 deaths annually [@Ali2015]
+
+**Clinical Presentation**
+
+-   Acute watery non-bloody diarrhea
+-   Characteristic "rice-water stools" (clear, watery, with flecks)
+-   Severe dehydration and shock possible
+-   Vomiting common
+-   Can be fulminant with progression to hypovolemic shock
+:::
+
+::: {.column width="50%"}
+![](images/rice_water_stool.png)
+:::
+:::::
+
+::: aside
 Cholera is primarily a disease encountered in endemic areas or during humanitarian crises with disrupted water systems. In developed countries, it's rare and usually associated with travel to endemic regions or consumption of raw seafood from contaminated waters. The toxin-mediated secretory diarrhea can be massive—patients may produce 10-20 liters of stool daily. The fulminant nature of severe cholera means rapid fluid replacement is lifesaving. The rice-water appearance of stool is distinctive and related to the massive secretion of electrolyte-rich fluid with minimal cellular debris.
 :::
 
-## Cholera Management
+## Cholera management {.smaller}
 
-**Diagnostic Approach** - Culture on TCBS (Thiosulfate-Citrate-Bile Salts) agar - Oxidase-positive, gram-negative curved rods - PCR available at reference labs
+<br>
 
-**Treatment — Fluid Replacement is Paramount** - Oral rehydration solution (ORS) is first-line - IV fluids (normal saline or Ringer's lactate) for severe dehydration - Replacement volumes can be massive (10-20 L/day in severe cases) - Monitor for electrolyte abnormalities
+**Diagnostic Approach** -
 
-**Antimicrobial Therapy** - Decreases duration and volume of diarrhea - Doxycycline, fluoroquinolones, or azithromycin - Secondary to fluid replacement in priority
+-   Culture on TCBS (Thiosulfate-Citrate-Bile Salts) agar
 
-**Prevention** - Vaxchora: oral cholera vaccine for travelers to endemic areas - Provides \~90% protection for 3 months, wanes thereafter - Food and water precautions essential
+-   Oxidase-positive, gram-negative curved rods
+
+-   PCR available at reference labs
+
+**Treatment**
+
+-   **Fluid Replacement is Paramount**
+
+    -   Oral rehydration solution (ORS) is first-line
+
+    -   IV fluids (normal saline or Ringer's lactate) for severe dehydration
+
+    -    Replacement volumes can be massive (10-20 L/day in severe cases)
+
+    -   Monitor for electrolyte abnormalities
+
+**Antimicrobial Therapy**
+
+-   Decreases duration and volume of diarrhea
+
+-   Doxycycline, fluoroquinolones, or azithromycin
+
+-   Secondary to fluid replacement in priority
+
+**Prevention** - Vaxchora: oral cholera vaccine for travelers to endemic areas
+
+-   Provides \~90% protection for 3 months, wanes thereafter - Food and water precautions essential
 
 ::: notes
-Cholera treatment emphasizes the critical importance of aggressive fluid replacement. With appropriate rehydration, mortality is \<1%; without it, mortality exceeds 50%. The vaccine (Vaxchora) is a live attenuated vaccine given orally; it's not routinely recommended for all travelers but is appropriate for those spending extended time in endemic areas at high risk of exposure. For public health response to cholera outbreaks, both treatment infrastructure and cholera vaccination programs are important.
+Cholera treatment emphasizes the critical importance of aggressive fluid replacement. With appropriate rehydration, mortality is \<1%; without it, mortality exceeds 50%. The vaccine (Vaxchora) is a live attenuated vaccine given orally; it's not routinely recommended for all travelers but is appropriate for those spending extended time in endemic areas at high risk of exposure.
 :::
 
 ## Traveler's Diarrhea — Overview
@@ -736,7 +1303,7 @@ Cholera treatment emphasizes the critical importance of aggressive fluid replace
 Traveler's diarrhea is so common that prevention and self-management strategies are critical counseling points for patients planning travel. Most cases are mild and self-limited, but some can be severe enough to disrupt travel plans. The pathogenesis is multifactorial: combination of unfamiliar microbiota, altered diet, dehydration, and exposure to enteropathogens. The risk varies dramatically by destination; highest risk areas include Latin America, Africa, Middle East, and South Asia. Lower-risk destinations include Northern Europe, Australia, New Zealand, and North America.
 :::
 
-## Traveler's Diarrhea — Etiology by Region
+## Traveler's Diarrhea — Etiology by region
 
 | Pathogen                   | Frequency | Geographic Notes                 |
 |----------------------------|-----------|----------------------------------|
@@ -946,5 +1513,3 @@ Thank you for your attention. Time for your questions and clinical pearls to sha
 ::: notes
 This closing slide allows transition to interactive discussion with the audience. The 90-120 minute lecture has covered the major pathogens causing infectious diarrhea, their pathophysiology, epidemiology, clinical features, diagnosis, and management. The focus throughout has been on practical clinical decision-making that balances diagnostic testing, antimicrobial therapy, and supportive care. Audience engagement and discussion of local epidemiology and management challenges enhances learning and allows tailoring to specific clinical contexts.
 :::
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
