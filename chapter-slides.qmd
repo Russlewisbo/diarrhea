@@ -11,7 +11,7 @@ format:
     preview-links: auto
     width: 1920
     height: 1080
-bibliography: references.bib
+bibliography: diarrhea- references.bib
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
@@ -133,7 +133,9 @@ Understanding pathophysiology helps predict clinical presentation. Pathogens tha
 
 -   Watery consistency
 
--   Cramping periumbilical pain - 4-8 stools daily
+-   Cramping periumbilical pain
+
+-   4-8 stools daily
 
 **Associated Symptoms**: Nausea/vomiting common, weight loss possible
 :::
@@ -202,13 +204,13 @@ Norovirus is the leading cause of foodborne disease outbreaks in Eruope and the 
 :::
 
 ::: {.column width="50%"}
-**Viral Characteristics**
+**Viral characteristics**
 
 -   Non-enveloped RNA virus, Caliciviridae family - Multiple genotypes; no lasting immunity after infection [@Patel2008]
 
 -   Extremely stable: resists alcohol, chlorine, temperatures to 60°C
 
-**Transmission Routes**
+**Transmission routes**
 
 -   Primarily fecal-oral \>aerosol transmission documented
 
@@ -1446,7 +1448,7 @@ Self-treatment of traveler's diarrhea with antibiotics can dramatically reduce d
 
 -   Cryptosporidium parvum: most common parasitic cause
 
--    Cytomegalovirus: causes ulcerative colitis pattern
+-   Cytomegalovirus: causes ulcerative colitis pattern
 
 -   Microsporidium: can cause chronic diarrhea
 
@@ -1506,9 +1508,9 @@ Self-treatment of traveler's diarrhea with antibiotics can dramatically reduce d
 
     -   Address underlying immune defect (ART, immunosuppression optimization)
 
-    -    Monitor for immune recovery inflammation (MAC disease, IRIS)
+    -   Monitor for immune recovery inflammation (MAC disease, IRIS)
 
-## Hospital-acquired diarrhea  {.smaller}
+## Hospital-acquired diarrhea {.smaller}
 
 <br>
 
@@ -1520,7 +1522,7 @@ Self-treatment of traveler's diarrhea with antibiotics can dramatically reduce d
 
 -   **Risk factors:** Recent or current antimicrobial therapy (strongest risk factor)
 
-    -    Advanced age
+    -   Advanced age
 
     -   Severity of underlying illness
 
@@ -1542,9 +1544,9 @@ Self-treatment of traveler's diarrhea with antibiotics can dramatically reduce d
 
     -   Transmission via spores: contact precautions required (hand sanitizer not sufficient)
 
-    -    Increasing incidence of severe, recurrent disease
+    -   Increasing incidence of severe, recurrent disease
 
-## Diarrhea in institutional settings  {.smaller}
+## Diarrhea in institutional settings {.smaller}
 
 <br>
 
@@ -1556,7 +1558,7 @@ Self-treatment of traveler's diarrhea with antibiotics can dramatically reduce d
 
     -   Rotavirus, G. lamblia seasonal outbreaks
 
-    -    Norovirus rapid spread in winter
+    -   Norovirus rapid spread in winter
 
     -   **Nutritional impact: worsens outcomes in elderly**
 
@@ -1568,9 +1570,9 @@ Self-treatment of traveler's diarrhea with antibiotics can dramatically reduce d
 
     -   Shigella spread via fecal-oral route
 
-    -    ETEC in contaminated water/food
+    -   ETEC in contaminated water/food
 
-    -    Exclusion policies important for control
+    -   Exclusion policies important for control
 
 -   **Neonatal diarrhea**
 
@@ -1582,7 +1584,7 @@ Self-treatment of traveler's diarrhea with antibiotics can dramatically reduce d
 
     -   Insidious onset; requires high clinical suspicion - May present with failure to thrive
 
-## Principles of treatment — Rehydration  {.smaller}
+## Principles of treatment — Rehydration {.smaller}
 
 <br>
 
@@ -1598,7 +1600,7 @@ Self-treatment of traveler's diarrhea with antibiotics can dramatically reduce d
 
     -   Replace ongoing losses (10 mL/kg per stool)
 
-    -    Add maintenance fluids
+    -   Add maintenance fluids
 
     -   Early rehydration prevents severe dehydration
 
@@ -1614,7 +1616,7 @@ Self-treatment of traveler's diarrhea with antibiotics can dramatically reduce d
 Rehydration is the cornerstone of diarrheal disease treatment, and the introduction of ORS has been transformative in reducing mortality from diarrhea globally. The electrolyte composition of ORS is based on the sodium-glucose cotransport mechanism in the small intestine, which remains intact even in diarrheal disease. Most cases of acute diarrhea, even with significant initial dehydration, can be managed with ORS. Early feeding reduces diarrhea duration and prevents malnutrition. The need for IV rehydration is reserved for cases with signs of shock, persistent vomiting, or severe dehydration unable to drink.
 :::
 
-## Symptomatic Treatment  {.smaller}
+## Symptomatic Treatment {.smaller}
 
 <br>
 
@@ -1682,13 +1684,13 @@ Bismuth subsalicylate has both antimicrobial and symptomatic benefits, making it
 In developed countries, most acute diarrhea is viral and self-limited, making empiric antibiotics unnecessary. In areas with high rates of invasive bacterial diarrhea and where hydration access is limited, empiric therapy may be more appropriate. **The critical exception is EHEC, where antibiotics paradoxically worsen outcomes.**
 :::
 
-## Micronutrient supplementation  {.smaller}
+## Micronutrient supplementation {.smaller}
 
 <br>
 
 -   **Zinc Supplementation**
 
-    -    Particularly in children \<5 years in developing countries [@Lazzerini2016]
+    -   Particularly in children \<5 years in developing countries [@Lazzerini2016]
 
     -   Reduces duration and severity of diarrhea
 
@@ -1696,7 +1698,7 @@ In developed countries, most acute diarrhea is viral and self-limited, making em
 
     -   Dose: 10-20 mg elemental zinc daily for 10-14 days
 
-    -    Strong evidence supports benefit, especially in malnourished children
+    -   Strong evidence supports benefit, especially in malnourished children
 
 -   **Other Micronutrients**
 
@@ -1821,5 +1823,3 @@ Key references for this lecture on infectious diarrheal diseases. Additional cit
 -   Freedman SB, et al. Pediatric Gastroenteritis in Developed and Developing Countries. Gastroenterology. 2020.
 
 -   Platts-Mills JA, et al. Pathogen-specific burdens of community diarrhoea in developing countries. Lancet Glob Health. 2015.
-
-

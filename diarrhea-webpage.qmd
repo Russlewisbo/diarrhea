@@ -11,7 +11,7 @@ format:
     code-fold: true
     smooth-scroll: true
     lightbox: true
-bibliography: references.bib
+bibliography: diarrhea-references.bib
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 

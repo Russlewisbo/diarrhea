@@ -11,7 +11,7 @@ format:
     preview-links: auto
     width: 1920
     height: 1080
-bibliography: references.bib
+bibliography: diarrhea-references.bib
 csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
